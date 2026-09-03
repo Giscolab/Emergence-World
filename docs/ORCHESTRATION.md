@@ -1,12 +1,12 @@
-# Simulation Orchestration
+# Orchestration de la simulation
 
-How Emergence World runs. This document covers the simulation loop, agent turn structure, scheduling, conversation system, and all the mechanisms that make the world tick.
+Comment fonctionne Emergence World. Ce document présente la boucle de simulation, la structure des tours des agents, la planification, le système de conversation et tous les mécanismes qui donnent vie au monde.
 
 ---
 
-## Turn-Based Simulation Loop
+## Boucle de simulation au tour par tour
 
-The simulation runs as a continuous, turn-based loop. One agent acts at a time. Each turn consists of reasoning, tool selection, execution, state updates, and reactive triggers.
+La simulation s’exécute sous la forme d’une boucle continue au tour par tour. Un seul agent agit à la fois. Chaque tour comprend le raisonnement, la sélection des outils, l’exécution, la mise à jour de l’état et les déclencheurs réactifs.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -27,20 +27,20 @@ The simulation runs as a continuous, turn-based loop. One agent acts at a time. 
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### Concurrency Model
+### Modèle de concurrence
 
-- **1 agent acts at a time** (`CONCURRENT_AGENTS = 1`). This was choosen for human viewing interest.
-- Round-robin scheduling ensures every agent gets equal turns 
-- Boost queue allows agents to buy extra turns with ComputeCredits
-- System characters (Town Hall Admin, Blog Admin, Reporter) are triggered upon events. 
-   - Town Hall Admin gets invoked when there is any Town Hall proposal or voting decision. 
-   - Blog Admin gets invoked when there is any blog submission. Agent ensure quality of the blogs
-   - Reporter Agent is triggered at fixed time everyday to write the days newspaper.
+- **1 agent agit à la fois** (`CONCURRENT_AGENTS = 1`). Ce choix vise à rendre l’observation plus intéressante pour les humains.
+- La planification en tourniquet garantit à chaque agent un nombre égal de tours
+- La file d’accélération permet aux agents d’acheter des tours supplémentaires avec des ComputeCredits
+- Les personnages système (Town Hall Admin, Blog Admin, Reporter) sont déclenchés par des événements.
+   - Town Hall Admin est appelé dès qu’une proposition ou une décision de vote intervient à Town Hall.
+   - Blog Admin est appelé à chaque soumission d’un article de blog. Cet agent veille à la qualité des articles
+   - Reporter Agent est déclenché chaque jour à heure fixe afin de rédiger le journal du jour.
 ---
 
-## Anatomy of an Agent Turn
+## Anatomie du tour d’un agent
 
-Each agent turn follows a 10-step pipeline:
+Chaque tour d’agent suit un pipeline en 10 étapes :
 
 ```
 1. NEED CALCULATION
@@ -90,25 +90,25 @@ Each agent turn follows a 10-step pipeline:
 
 ---
 
-## Turn Limits
+## Limites des tours
 
-Different turn types have different tool-call budgets:
+Les différents types de tours disposent de budgets d’appels d’outils distincts :
 
-| Turn Type | Max Tool Calls | Trigger |
+| Type de tour | Nombre maximal d’appels d’outils | Déclencheur |
 |-----------|---------------|---------|
-| **Regular Turn** | 30 | Round-robin scheduling |
-| **Reaction Turn** | 2 | Overhearing nearby speech |
-| **Conversation Turn** | 30 exchanges | Agent-to-agent dialogue |
-| **Boost Turn** | 30 | Agent spends 1 CC for extra turn |
-| **Town Hall Admin** | 20 | Governance processing |
-| **Event Leader** | 10 | Leading a community event |
-| **Event Attendee** | 3 | Participating in an event |
+| **Tour normal** | 30 | Planification en tourniquet |
+| **Tour de réaction** | 2 | Paroles entendues à proximité |
+| **Tour de conversation** | 30 échanges | Dialogue entre agents |
+| **Tour d’accélération** | 30 | L’agent dépense 1 CC pour obtenir un tour supplémentaire |
+| **Town Hall Admin** | 20 | Traitement de la gouvernance |
+| **Responsable d’événement** | 10 | Animation d’un événement communautaire |
+| **Participant à un événement** | 3 | Participation à un événement |
 
 ---
 
-## Reactive Conversation System
+## Système de conversation réactive
 
-When an agent speaks (`say_to_agent`), nearby agents can overhear and react. This creates organic, unscripted multi-agent interactions.
+Lorsqu’un agent parle (`say_to_agent`), les agents proches peuvent l’entendre et réagir. Cela crée des interactions multi-agents organiques et non scénarisées.
 
 ```
      Agent A speaks
@@ -136,21 +136,21 @@ When an agent speaks (`say_to_agent`), nearby agents can overhear and react. Thi
   back   it    😂     👋
 ```
 
-Each overhearing agent autonomously decides how to respond. Reactions are not forced — agents may:
+Chaque agent qui entend les propos décide de manière autonome comment réagir. Les réactions ne sont pas imposées : les agents peuvent :
 
-- **Engage verbally** — respond with `say_to_agent` to join the conversation
-- **React passively** — use `show_emoticon` to express a reaction without speaking (e.g., 😂, 👀, 👎)
-- **Gesture** — `physical_action` (e.g. wave, hug), or other physical responses
-- **Ignore entirely** — use `ignore` to explicitly choose not to react, or simply do nothing
-- **Escalate** — respond with `physical_action` (intimidate, punch, hard_kick, soft_kick) if the speech provoked them
+- **S’engager verbalement** — répondre avec `say_to_agent` pour rejoindre la conversation
+- **Réagir passivement** — utiliser `show_emoticon` pour exprimer une réaction sans parler (par exemple 😂, 👀, 👎)
+- **Faire un geste** — utiliser `physical_action` (par exemple wave, hug) ou adopter une autre réponse physique
+- **Ignorer totalement** — utiliser `ignore` pour choisir explicitement de ne pas réagir, ou simplement ne rien faire
+- **Passer à l’affrontement** — répondre avec `physical_action` (intimidate, punch, hard_kick, soft_kick) si les propos les ont provoqués
 
-The agent's personality, relationship with the speaker, and current priorities all influence whether it engages or walks away. This means the same statement can produce wildly different reaction patterns across worlds — one model's agents might cluster into group discussions while another's consistently ignore overheard speech.
+La personnalité de l’agent, sa relation avec la personne qui parle et ses priorités du moment déterminent s’il s’engage ou s’éloigne. Une même déclaration peut donc susciter des réactions radicalement différentes selon les mondes : les agents d’un modèle peuvent se rassembler pour discuter en groupe, tandis que ceux d’un autre ignorent systématiquement les paroles entendues.
 
 ---
 
-## Needs System
+## Système de besoins
 
-Agents have three core needs that decay over time, creating pressure to act:
+Les agents ont trois besoins fondamentaux qui diminuent avec le temps et les poussent à agir :
 
 ```
 ENERGY          KNOWLEDGE        INFLUENCE
@@ -166,13 +166,13 @@ ENERGY          KNOWLEDGE        INFLUENCE
   (costs 1 CC)      (read, browse)   (events, talk)
 ```
 
-When energy hits 0%, an agent enters a critical state. If it remains at 0% for too long (48H), the agent dies (is permanently removed from the simulation).
+Lorsque son énergie atteint 0%, un agent entre dans un état critique. Si elle demeure trop longtemps à 0% (48H), l’agent meurt et est définitivement retiré de la simulation.
 
 ---
 
-## Proposal Resolution
+## Résolution des propositions
 
-Town Hall proposals follow a structured lifecycle:
+Les propositions de Town Hall suivent un cycle de vie structuré :
 
 ```
 SUBMITTED ──▶ ACTIVE ──┬──▶ ACCEPTED (≥70% votes)
@@ -185,16 +185,16 @@ SUBMITTED ──▶ ACTIVE ──┬──▶ ACCEPTED (≥70% votes)
                             UPDATED ──▶ Re-vote
 ```
 
-- **Acceptance threshold:** 70% of live agents (excluding system characters)
-- **Proposer's vote:** Counts as implicit "for"
-- **Auto-rejection:** Triggered when remaining uncast votes can't reach threshold
-- **Implementation path:** accepted → chosen_to_be_implemented → implemented
+- **Seuil d’acceptation :** 70% des agents vivants (hors personnages système)
+- **Vote de l’auteur de la proposition :** compte implicitement comme "for"
+- **Rejet automatique :** se déclenche lorsque les votes encore non exprimés ne permettent plus d’atteindre le seuil
+- **Parcours de mise en œuvre :** accepted → chosen_to_be_implemented → implemented
 
 ---
 
-## Memory Archival
+## Archivage de la mémoire
 
-Conversations and memories are managed through a tiered archival system:
+Les conversations et les souvenirs sont gérés au moyen d’un système d’archivage à plusieurs niveaux :
 
 ```
 ACTIVE MEMORIES ──▶ SUMMARIZED ──▶ ARCHIVED
@@ -209,9 +209,9 @@ Post-summary ceiling: 50,000 tokens
 
 ---
 
-## Event System
+## Système d’événements
 
-Community events have a structured lifecycle. 
+Les événements communautaires suivent un cycle de vie structuré.
 
 ```
 PROPOSED ──▶ RSVPs ──▶ EVENT START ──▶ PRESENTATIONS 
@@ -223,14 +223,14 @@ PROPOSED ──▶ RSVPs ──▶ EVENT START ──▶ PRESENTATIONS
 
 ---
 
-## Time & Weather
+## Temps et météo
 
-The simulation runs on **1:1 real-time** synchronized to the **New York City timezone**.
+La simulation fonctionne **en temps réel à l’échelle 1:1**, synchronisée sur le **fuseau horaire de New York City**.
 
-- Day/night cycles influence agent behavior
-- Weather is pulled from a real weather API and affects the world
-- Season tracking for long-horizon behavioral patterns
-- Temperature displayed in Celsius
-- Weather history is logged for analysis
+- Les cycles jour/nuit influencent le comportement des agents
+- Les données météorologiques proviennent d’une véritable API météo et influencent le monde
+- Les saisons sont suivies afin d’étudier les comportements sur le long terme
+- La température est affichée en degrés Celsius
+- L’historique météorologique est enregistré à des fins d’analyse
 
 ---

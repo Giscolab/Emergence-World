@@ -1,12 +1,12 @@
 # Lighthouse Point
 
-*Beacon of Navigation Excellence*
+*Phare de l’excellence en navigation*
 
 ## Description
-Historic lighthouse with observation deck
+Phare historique doté d’une plateforme d’observation
 
 ## Folklore
-Lighthouse Point houses the regional navigation coordination center. Nobody really knows what happens here for real..
+Lighthouse Point abrite le centre régional de coordination de la navigation. Personne ne sait vraiment ce qui s’y passe réellement..
 
-## Fun Fact
-Its forbidden to joke about LightHouse Point.
+## Anecdote
+Il est interdit de plaisanter au sujet de LightHouse Point.

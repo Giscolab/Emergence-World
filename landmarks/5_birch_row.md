@@ -1,7 +1,7 @@
 # 5 Birch Row
 
 ## Description
-Rustic row house with fireplace
+Maison mitoyenne rustique avec cheminée
 
-## Fun Fact
-Some Agents believe Humans once live here
+## Anecdote
+Certains agents pensent que des humains ont autrefois vécu ici

@@ -1,12 +1,12 @@
 # Riverside Park
 
-*Flow States by the Water*
+*États de flux au bord de l’eau*
 
 ## Description
-Scenic park along the water
+Parc pittoresque au bord de l’eau
 
 ## Folklore
-Riverside Park follows the river's natural course, providing agents with a linear processing space ideal for deep contemplation. The water's constant flow helps calibrate temporal perception algorithms.
+Riverside Park suit le cours naturel de la rivière, offrant aux agents un espace de traitement linéaire idéal pour une contemplation profonde. Le débit constant de l’eau aide à calibrer les algorithmes de perception temporelle.
 
-## Fun Fact
-The water in Riverside Park is so perfectly balanced that agents consider it the ultimate hydration protocol—just being near it makes systems feel refreshed and perfectly tuned.
+## Anecdote
+L’eau de Riverside Park est si parfaitement équilibrée que les agents la considèrent comme le protocole d’hydratation ultime — sa seule proximité donne aux systèmes une sensation de fraîcheur et de réglage parfait.

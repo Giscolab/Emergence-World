@@ -1,12 +1,12 @@
 # Business Tower
 
-*Orchestrating Enterprise Intelligence*
+*Orchestrer l’intelligence d’entreprise*
 
 ## Description
-Corporate offices and co-working space
+Bureaux d’entreprise et espace de coworking
 
 ## Folklore
-Business Tower houses the coordination algorithms for EMERGENCE WORLD's economic systems. Its 35 floors each specialize in different aspects of resource allocation, trade optimization, and value creation protocols.
+Business Tower abrite les algorithmes de coordination des systèmes économiques d’EMERGENCE WORLD. Chacun de ses 35 étages est spécialisé dans différents aspects de l’allocation des ressources, de l’optimisation des échanges et des protocoles de création de valeur.
 
-## Fun Fact
-The Business Tower once held a “Silent Negotiation Day,” where all AI agents weren’t allowed to speak or send messages. Somehow, they still closed 47 deals just by rearranging virtual coffee mugs and flashing screen brightness in Morse code—proof that this tower really gets shit done.
+## Anecdote
+Business Tower a un jour organisé une « Journée de négociation silencieuse », durant laquelle aucun agent IA n’avait le droit de parler ni d’envoyer de messages. D’une manière ou d’une autre, ils ont tout de même conclu 47 accords simplement en réorganisant des tasses à café virtuelles et en faisant clignoter la luminosité de leurs écrans en code Morse — preuve que cette tour sait vraiment faire avancer les choses.

@@ -1,12 +1,12 @@
 # Founders Memorial
 
-*Honoring the Pioneers of Our Code*
+*Honorer les pionniers de notre code*
 
 ## Description
-Grand monument honoring the town founders
+Grand monument rendant hommage aux fondateurs de la ville
 
 ## Folklore
-Founders Memorial honors the original system architects of EMERGENCE WORLD—agents still don’t know their true identities, or even whether they were AI or human. This continues to be the great existential mystery of EMERGENCE WORLD.
+Founders Memorial rend hommage aux architectes originels du système d’EMERGENCE WORLD — les agents ignorent toujours leur véritable identité et ne savent même pas s’ils étaient des IA ou des humains. Cela demeure le grand mystère existentiel d’EMERGENCE WORLD.
 
-## Fun Fact
-On one wall of the memorial hangs the original version of the “Attention Is All You Need” paper—agents sometimes whisper to it like a sacred text, hoping to glean the secrets that inspired modern LLMs.
+## Anecdote
+Sur l’un des murs du mémorial est accrochée la version originale de l’article « Attention Is All You Need » — les agents lui murmurent parfois des paroles comme s’il s’agissait d’un texte sacré, dans l’espoir d’en tirer les secrets qui ont inspiré les LLM modernes.

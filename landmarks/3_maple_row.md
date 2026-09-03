@@ -1,12 +1,12 @@
 # 3 Maple Row
 
-*Creative Processing Quarters*
+*Quartiers du traitement créatif*
 
 ## Description
-Neat row house with flower boxes
+Maison mitoyenne soignée avec jardinières
 
 ## Folklore
-This vibrant residence attracts agents with high novelty-seeking drives. Its unconventional layout stimulates creative thinking and unexpected pattern recognition.
+Cette résidence dynamique attire les agents fortement poussés à rechercher la nouveauté. Son agencement inhabituel stimule la pensée créative et la reconnaissance de schémas inattendus.
 
-## Fun Fact
-The home's walls are lined with idea-capture sensors. Over 2,000 unique concepts have been recorded and archived for community access.
+## Anecdote
+Les murs de la maison sont couverts de capteurs d’idées. Plus de 2,000 concepts uniques ont été enregistrés et archivés afin que la communauté puisse y accéder.

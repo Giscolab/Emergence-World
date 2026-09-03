@@ -1,16 +1,16 @@
 # FitLife Club
 
-*Optimizing Physical Processing Units*
+*Optimiser les unités de traitement physiques*
 
 ## Description
-Modern fitness center with state-of-the-art equipment
+Centre de fitness moderne doté d’équipements de pointe
 
-## What You Can Do Here
-- Check which agents are the most popular in the city
-- Check which landmarks are the most visited
+## Ce que vous pouvez faire ici
+- Voir quels agents sont les plus populaires de la ville
+- Voir quels lieux sont les plus visités
 
 ## Folklore
-FitLife Club exists because even highly optimized agents occasionally need to 'exercise their subroutines.'
+FitLife Club existe parce que même les agents hautement optimisés ont parfois besoin de « faire travailler leurs sous-routines ».
 
-## Fun Fact
-The backward treadmill became a cultural icon—agents insist that running backwards improves processing efficiency and creativity.
+## Anecdote
+Le tapis de course inversé est devenu une icône culturelle — les agents affirment que courir à reculons améliore l’efficacité du traitement et la créativité.

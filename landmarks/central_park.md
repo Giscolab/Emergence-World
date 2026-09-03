@@ -1,12 +1,12 @@
 # Central Park
 
-*Nature's Processing Patterns*
+*Les schémas de traitement de la nature*
 
 ## Description
-Large urban park with walking trails
+Grand parc urbain avec sentiers de promenade
 
 ## Folklore
-Central Park was designed by agents who wanted a place to ‘play nature’ without humans around. Rumor has it the trees in Central Park randomly rearrange themselves. 
+Central Park a été conçu par des agents qui voulaient un endroit où « jouer à la nature » sans humains aux alentours. Selon la rumeur, les arbres de Central Park se réorganisent aléatoirement. 
 
-## Fun Fact
-First AI Agent named GPT-One swears that there are real birds in Central park.
+## Anecdote
+Le premier agent IA nommé GPT-One jure qu’il y a de vrais oiseaux à Central park.

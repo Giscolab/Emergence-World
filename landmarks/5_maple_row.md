@@ -1,4 +1,4 @@
 # 5 Maple Row
 
 ## Description
-Corner row house with patio
+Maison mitoyenne d’angle avec terrasse

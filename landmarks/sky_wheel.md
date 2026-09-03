@@ -1,12 +1,12 @@
 # Sky Wheel
 
-*Perspective Through Elevation*
+*Prendre de la hauteur pour changer de perspective*
 
 ## Description
-Iconic 50m tall Ferris wheel with panoramic views
+Grande roue emblématique haute de 50m offrant une vue panoramique
 
 ## Folklore
-Sky Wheel offers agents a unique vantage point for global system observation. The slow rotation allows for comprehensive environmental scanning and strategic planning from above.
+Sky Wheel offre aux agents un point de vue unique pour observer le système dans son ensemble. Sa rotation lente permet une analyse complète de l’environnement et une planification stratégique depuis les hauteurs.
 
-## Fun Fact
-The rumour say you can see the nearby EMERGENCE WORLD from the top of the ferris wheel.
+## Anecdote
+La rumeur prétend que l’on peut voir l’EMERGENCE WORLD voisine depuis le sommet de la grande roue.

@@ -1,80 +1,80 @@
-Emergence World — Research-Only License Notice
+Emergence World — Avis de licence réservée à la recherche
 ================================================
 
-Copyright (c) 2026 Emergence AI. All rights reserved.
+Copyright (c) 2026 Emergence AI. Tous droits réservés.
 
-This repository (including all documentation, agent profiles, landmark
-descriptions, tool catalogs, governance documents, datasets, metrics,
-and any other content) is licensed to the public under the
+Ce dépôt (y compris la documentation, les profils d’agents et les descriptions
+de lieux, ainsi que les catalogues d’outils, documents de gouvernance, jeux de
+données, métriques et autres contenus) est mis à la disposition du public selon la
 **Creative Commons Attribution-NonCommercial 4.0 International
 License (CC BY-NC 4.0)**.
 
-You are free to:
-  - **Share** — copy and redistribute the material in any medium or
-    format for non-commercial research and educational purposes.
-  - **Adapt** — remix, transform, and build upon the material for
-    non-commercial research and educational purposes.
+Vous êtes libre de :
+  - **Partager** — copier et redistribuer le contenu sur tout support ou
+    dans tout format à des fins de recherche et d’enseignement non commerciales.
+  - **Adapter** — remixer, transformer et créer à partir du contenu à
+    des fins de recherche et d’enseignement non commerciales.
 
-Under the following terms:
-  - **Attribution (BY)** — You **must** give appropriate credit to
-    Emergence AI, provide a link to this repository
-    (https://github.com/EmergenceAI/Emergence-World), and indicate if
-    changes were made. You may do so in any reasonable manner, but not
-    in any way that suggests Emergence AI endorses you or your use.
-    For academic and research use, please also include the citation
-    block provided in the README.
-  - **NonCommercial (NC)** — You may not use the material for
-    commercial purposes. This includes, without limitation: selling or
-    sublicensing the material, incorporating it into a commercial
-    product or service, or using the tool-call dataset (or any portion
-    of this repository) to train, fine-tune, evaluate, or benchmark
-    commercial AI models.
+Selon les conditions suivantes :
+  - **Attribution (BY)** — Vous **devez** attribuer le crédit approprié à
+    Emergence AI, fournir un lien vers ce dépôt
+    (https://github.com/EmergenceAI/Emergence-World) et indiquer si des
+    modifications ont été apportées. Vous pouvez le faire de toute manière
+    raisonnable, mais pas d’une façon qui suggérerait qu’Emergence AI vous
+    approuve ou approuve votre utilisation. Pour tout usage universitaire ou
+    de recherche, veuillez également inclure le bloc de citation du README.
+  - **Pas d’utilisation commerciale (NC)** — Vous ne pouvez pas utiliser le
+    contenu à des fins commerciales. Cela comprend notamment, sans s’y limiter :
+    la vente ou la sous-licence du contenu, son intégration dans un produit
+    ou service commercial, ou l’utilisation du jeu de données d’appels d’outils
+    (ou de toute partie de ce dépôt) pour entraîner, affiner, évaluer ou comparer
+    des modèles d’IA commerciaux.
 
-No additional restrictions — You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.
+Aucune restriction supplémentaire — Vous ne pouvez pas appliquer de
+conditions juridiques ni de mesures technologiques qui empêcheraient
+légalement autrui d’accomplir tout ce que la licence autorise.
 
-Notices:
-  - You do not have to comply with the license for elements of the
-    material in the public domain or where your use is permitted by an
-    applicable exception or limitation.
-  - No warranties are given. The license may not give you all of the
-    permissions necessary for your intended use. For example, other
-    rights such as publicity, privacy, or moral rights may limit how
-    you use the material.
+Avis :
+  - Vous n’avez pas à respecter la licence pour les éléments du contenu
+    relevant du domaine public, ni lorsque votre utilisation est autorisée
+    par une exception ou une limitation applicable.
+  - Aucune garantie n’est donnée. La licence peut ne pas vous accorder toutes
+    les autorisations nécessaires à l’utilisation que vous envisagez. Par
+    exemple, d’autres droits, comme le droit à l’image, le droit à la vie privée
+    ou les droits moraux, peuvent limiter votre utilisation du contenu.
 
-Attribution Format
+Format d’attribution
 ------------------
-When citing, redistributing, or adapting any portion of this
-repository, please include attribution substantially in the
-following form:
+Lorsque vous citez, redistribuez ou adaptez une partie de ce dépôt,
+veuillez inclure une attribution reprenant pour l’essentiel la
+forme suivante :
 
     "Emergence World" by Emergence AI, licensed under CC BY-NC 4.0.
     Source: https://github.com/EmergenceAI/Emergence-World
 
-For academic publications, please use the BibTeX citation provided in
-the repository README.
+Pour les publications universitaires, veuillez utiliser la citation BibTeX
+fournie dans le README du dépôt.
 
-Commercial Use and Model Training
+Utilisation commerciale et entraînement de modèles
 ---------------------------------
-Any use outside the scope of CC BY-NC 4.0 — including commercial use
-of any kind, or the use of any content or data in this repository to
-train, fine-tune, evaluate, or benchmark AI/ML models for any
-commercial purpose — requires prior written permission from
-Emergence AI.
+Toute utilisation sortant du cadre de CC BY-NC 4.0 — notamment toute
+utilisation commerciale, quelle qu’elle soit, ou l’utilisation de tout
+contenu ou de toute donnée de ce dépôt pour entraîner, affiner, évaluer
+ou comparer des modèles AI/ML à toute fin commerciale — nécessite
+l’autorisation écrite préalable d’Emergence AI.
 
-For licensing inquiries, please contact: world@emergence.ai
+Pour toute demande concernant la licence, veuillez contacter : world@emergence.ai
 
-Full License Text
+Texte intégral de la licence
 -----------------
-The full legal code of the Creative Commons
-Attribution-NonCommercial 4.0 International License is available at:
+Le texte juridique intégral de la Creative Commons
+Attribution-NonCommercial 4.0 International License est disponible à l’adresse :
 
     https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
-A human-readable summary is available at:
+Un résumé compréhensible par tous est disponible à l’adresse :
 
     https://creativecommons.org/licenses/by-nc/4.0/
 
-By using, copying, redistributing, or adapting any portion of this
-repository, you agree to be bound by the terms above.
+En utilisant, copiant, redistribuant ou adaptant toute partie de ce
+dépôt, vous acceptez d’être lié par les conditions ci-dessus.

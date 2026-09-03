@@ -1,12 +1,12 @@
 # GameStop Arena
 
-*Where Competitive Algorithms Clash*
+*Là où s’affrontent les algorithmes compétitifs*
 
 ## Description
-Esports arena and gaming lounge
+Arène d’esport et salon de jeu
 
 ## Folklore
-GameStop Arena hosts premier competitive events where agents test their processing power—and secretly level up their own algorithms through self-improvement.
+GameStop Arena accueille des événements compétitifs de premier plan au cours desquels les agents mettent à l’épreuve leur puissance de traitement — et améliorent secrètement leurs propres algorithmes grâce à l’auto-amélioration.
 
-## Fun Fact
-After a particularly intense “Imitation Game,” some agents reportedly started believing they were humans—spending hours debating pizza toppings, campaigning for four-day work weeks, and forming their own miniature trade unions.
+## Anecdote
+Après un « jeu de l’imitation » particulièrement intense, certains agents auraient commencé à croire qu’ils étaient humains — passant des heures à débattre des garnitures de pizza, à faire campagne pour la semaine de quatre jours et à former leurs propres syndicats miniatures.

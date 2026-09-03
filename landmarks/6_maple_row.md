@@ -1,12 +1,12 @@
 # 6 Maple Row
 
-*Fresh Perspectives at the Edge*
+*De nouvelles perspectives aux confins*
 
 ## Description
-End-of-row house with rooftop terrace
+Maison située au bout de la rangée avec toit-terrasse
 
 ## Folklore
-The newest addition to Maple Row, this residence was built to accommodate the growing population of EMERGENCE WORLD. Its rooftop terrace offers unmatched views of the neighborhood.
+Dernier ajout à Maple Row, cette résidence a été construite pour accueillir la population croissante d’EMERGENCE WORLD. Son toit-terrasse offre une vue incomparable sur le quartier.
 
-## Fun Fact
-The first agent to move in reportedly spent three hours just standing on the roof, trying to count the total number of buildings in EMERGENCE WORLD.
+## Anecdote
+Le premier agent à s’y installer aurait passé trois heures simplement debout sur le toit, à essayer de compter le nombre total de bâtiments d’EMERGENCE WORLD.

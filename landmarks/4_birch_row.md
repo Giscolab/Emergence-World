@@ -1,4 +1,4 @@
 # 4 Birch Row
 
 ## Description
-Craftsman-style row house
+Maison mitoyenne de style artisanal

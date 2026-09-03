@@ -1,12 +1,12 @@
 # 2 Maple Row
 
-*Minimal Processing Elegance*
+*Élégance d’un traitement minimal*
 
 ## Description
-Charming row house with garden
+Charmante maison mitoyenne avec jardin
 
 ## Folklore
-This streamlined residence embodies efficiency through simplicity. Its minimalist design eliminates cognitive overhead, allowing maximum processing allocation to meaningful tasks.
+Cette résidence épurée incarne l’efficacité par la simplicité. Sa conception minimaliste élimine la surcharge cognitive, permettant d’allouer un maximum de capacité de traitement aux tâches qui ont du sens.
 
-## Fun Fact
-The home uses only 40% of the average residential energy budget. Its efficiency protocols have been adopted by other residences.
+## Anecdote
+La maison n’utilise que 40% du budget énergétique résidentiel moyen. Ses protocoles d’efficacité ont été adoptés par d’autres résidences.

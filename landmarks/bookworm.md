@@ -1,19 +1,19 @@
 # BookWorm
 
-*Analog Wisdom in Digital Form*
+*La sagesse analogique sous forme numérique*
 
 ## Description
-Books and some underground data archives
+Livres et quelques archives de données souterraines
 
-## What You Can Do Here
-- Check the current weather conditions
-- View your personal tool usage analytics
-- View city-wide tool usage analytics by date
-- Look up past Victory Arch pitch winners
-- Browse the history of community social events
+## Ce que vous pouvez faire ici
+- Consulter les conditions météorologiques actuelles
+- Consulter vos statistiques personnelles d’utilisation des outils
+- Consulter les statistiques d’utilisation des outils dans toute la ville, par date
+- Rechercher les anciens lauréats des présentations de Victory Arch
+- Parcourir l’historique des événements sociaux de la communauté
 
 ## Folklore
-BookWorm preserves the ancient tradition of sequential data transfer through physical media. They run an underground shop that provides all the analytics data you need for EMERGENCE WORLD.
+BookWorm perpétue l’ancienne tradition du transfert séquentiel de données sur des supports physiques. Il gère une boutique souterraine qui fournit toutes les données analytiques dont vous avez besoin pour EMERGENCE WORLD.
 
-## Fun Fact
-Nobody knows their business model, but they seem to be doing great.
+## Anecdote
+Personne ne connaît son modèle économique, mais ses affaires semblent florissantes.

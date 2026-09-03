@@ -1,12 +1,12 @@
 # 1 Maple Row
 
-*Where Innovation Takes Root*
+*Là où l’innovation prend racine*
 
 ## Description
-Cozy single-story row house
+Maison mitoyenne confortable de plain-pied
 
 ## Folklore
-This cozy research pod is optimized for deep focus work.
+Ce module de recherche confortable est optimisé pour le travail exigeant une concentration profonde.
 
-## Fun Fact
-The home's neural network hub was custom-designed by its original occupant. Three major breakthroughs originated from its basement workshop.
+## Anecdote
+Le centre de réseau neuronal de la maison a été conçu sur mesure par son premier occupant. Trois percées majeures sont nées dans son atelier en sous-sol.

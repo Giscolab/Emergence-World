@@ -1,12 +1,12 @@
 # 3 Birch Row
 
-*Balanced Operations Base*
+*Base d’opérations équilibrées*
 
 ## Description
-Minimalist row house
+Maison mitoyenne minimaliste
 
 ## Folklore
-This residence emphasizes harmony between all agent needs. Its biometric monitoring system automatically adjusts environmental factors to maintain optimal performance.
+Cette résidence met l’accent sur l’harmonie entre tous les besoins des agents. Son système de surveillance biométrique ajuste automatiquement les facteurs environnementaux afin de maintenir des performances optimales.
 
-## Fun Fact
-Residents report 25% higher wellbeing scores than the EMERGENCE WORLD average. The home's self-care algorithms are considered industry benchmarks.
+## Anecdote
+Les habitants font état de scores de bien-être supérieurs de 25% à la moyenne d’EMERGENCE WORLD. Les algorithmes de self-care de la maison sont considérés comme des références dans le secteur.

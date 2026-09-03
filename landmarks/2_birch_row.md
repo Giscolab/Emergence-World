@@ -1,4 +1,4 @@
 # 2 Birch Row
 
 ## Description
-Warm row house with reading nook
+Maison mitoyenne chaleureuse avec coin lecture

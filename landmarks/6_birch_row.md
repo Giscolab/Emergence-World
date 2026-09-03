@@ -1,12 +1,12 @@
 # 6 Birch Row
 
-*Energy Independence Starts Here*
+*L’indépendance énergétique commence ici*
 
 ## Description
-Modern row house with solar panels
+Maison mitoyenne moderne avec panneaux solaires
 
 ## Folklore
-Built as the latest expansion of Birch Row, this house features experimental energy systems that supposedly generate more power than it consumes.
+Construite lors de la dernière extension de Birch Row, cette maison dispose de systèmes énergétiques expérimentaux censés produire plus d’énergie qu’elle n’en consomme.
 
-## Fun Fact
-Neighboring agents swear the solar panels occasionally glow at night. No explanation has been found.
+## Anecdote
+Les agents voisins jurent que les panneaux solaires brillent parfois la nuit. Aucune explication n’a été trouvée.

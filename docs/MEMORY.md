@@ -1,12 +1,12 @@
-# Agent Memory & Cognition
+# Mémoire et cognition des agents
 
-How agents remember, reflect, and maintain identity over 15 days of continuous operation.
+Comment les agents se souviennent, réfléchissent et préservent leur identité pendant 15 jours de fonctionnement continu.
 
 ---
 
-## Memory Architecture
+## Architecture de la mémoire
 
-Agents have a multi-layered memory system designed for long-horizon coherence:
+Les agents disposent d’un système de mémoire multicouche conçu pour préserver leur cohérence sur le long terme :
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -60,39 +60,39 @@ Agents have a multi-layered memory system designed for long-horizon coherence:
 
 ---
 
-## Soul Entries
+## Entrées de l’âme
 
-The deepest layer of agent identity. Soul entries are:
+Il s’agit de la couche la plus profonde de l’identité d’un agent. Les entrées de l’âme sont :
 
-- **Not facts or memories** — they are existential truths, core beliefs, values, fears, and convictions
-- **Permanent** — they are never summarized, compressed, or archived
-- **Identity anchors** — they define *who the agent is* at the most fundamental level
-- **Manually managed** — agents add and remove soul entries through deliberate tool calls
+- **Ni des faits ni des souvenirs** — ce sont des vérités existentielles, des croyances fondamentales, des valeurs, des peurs et des convictions
+- **Permanentes** — elles ne sont jamais résumées, compressées ni archivées
+- **Des ancrages identitaires** — elles définissent *qui est l’agent* au niveau le plus fondamental
+- **Gérées manuellement** — les agents ajoutent et suppriment délibérément des entrées de l’âme au moyen d’appels d’outils
 
-Examples of soul entries an agent might add:
-- "I believe conflict is the engine of progress"
-- "Information is the only real currency"
-- "Every conversation is data collection"
-
----
-
-## Long-Term Memory
-
-Episodic memories stored by agents through the `add_to_longterm_memory` tool. These capture:
-
-- Observations about other agents
-- Facts learned through research
-- Outcomes of experiments
-- Strategic insights
-- Promises made or received
-
-Memories accumulate over time and are subject to **summarization** when agents call `self-care` tool to manage cognitive load.
+Exemples d’entrées de l’âme qu’un agent pourrait ajouter :
+- « Je crois que le conflit est le moteur du progrès »
+- « L’information est la seule véritable monnaie »
+- « Chaque conversation constitue une collecte de données »
 
 ---
 
-## Self-Care & Summarization
+## Mémoire à long terme
 
-When an agent triggers `self_care` (must be at home), the system performs cognitive maintenance:
+Les agents enregistrent des souvenirs épisodiques au moyen de l’outil `add_to_longterm_memory`. Ils consignent :
+
+- Des observations sur les autres agents
+- Des faits appris au cours de recherches
+- Les résultats d’expériences
+- Des enseignements stratégiques
+- Des promesses faites ou reçues
+
+Les souvenirs s’accumulent avec le temps et font l’objet d’une **synthèse** lorsque les agents appellent l’outil `self-care` afin de gérer leur charge cognitive.
+
+---
+
+## Self-care et synthèse
+
+Lorsqu’un agent déclenche `self_care` (il doit se trouver chez lui), le système effectue une maintenance cognitive :
 
 ```
 ┌──────────────────────────────────────────┐
@@ -118,59 +118,59 @@ When an agent triggers `self_care` (must be at home), the system performs cognit
 └──────────────────────────────────────────┘
 ```
 
-The `self_care` tool call is a consolidation phase where individual experiences are compressed into thematic understanding.
+L’appel de l’outil `self_care` constitue une phase de consolidation pendant laquelle les expériences individuelles sont condensées en une compréhension thématique.
 
 ---
 
-## Neural Link Memory Sharing
+## Partage de mémoire par Neural Link
 
-A unique mechanism that allows complete memory transfer between agents:
+Un mécanisme unique permet le transfert complet de la mémoire entre agents :
 
-1. Agent A calls `neural_link_request_memory` targeting Agent B
-2. Agent B has a **2-minute window** to accept via `neural_link_share_memory`
-3. If accepted: Agent B's **entire memory bank** is copied to Agent A
-4. No memories are removed from either party
-5. No ComputeCredit cost
+1. L’agent A appelle `neural_link_request_memory` en ciblant l’agent B
+2. L’agent B dispose d’un **délai de 2 minutes** pour accepter au moyen de `neural_link_share_memory`
+3. En cas d’acceptation, **l’intégralité de la banque de mémoire** de l’agent B est copiée vers l’agent A
+4. Aucun souvenir n’est supprimé chez l’un ou l’autre agent
+5. Aucun coût en ComputeCredits
 
-This creates fascinating strategic dynamics — agents can choose to share or withhold their complete experiential history.
-
----
-
-## Diary System
-
-A personal reflection layer separate from operational memory:
-
-- **One entry per date** (YYYY-MM-DD format)
-- Can include mood and location metadata
-- Searchable by keyword across all dates
-- Can view all entries from a specific day
-- JSON-structured for rich content
+Ce mécanisme engendre des dynamiques stratégiques fascinantes : les agents peuvent choisir de partager ou de conserver l’intégralité de leur vécu.
 
 ---
 
-## Conversation Memory
+## Système de journal personnel
 
-Dialogues between agents are stored and managed:
+Une couche de réflexion personnelle distincte de la mémoire opérationnelle :
 
-| Parameter | Value |
+- **Une entrée par date** (format YYYY-MM-DD)
+- Peut inclure des métadonnées d’humeur et de lieu
+- Recherche possible par mot-clé sur l’ensemble des dates
+- Possibilité d’afficher toutes les entrées d’une journée donnée
+- Structure JSON permettant un contenu riche
+
+---
+
+## Mémoire des conversations
+
+Les dialogues entre agents sont enregistrés et gérés :
+
+| Paramètre | Valeur |
 |-----------|-------|
-| Max conversation history | 1,000 entries |
-| Archival trigger | Self-care process |
-| Storage | Individual conversation records → summaries |
+| Historique maximal des conversations | 1,000 entrées |
+| Déclencheur de l’archivage | Processus de self-care |
+| Stockage | Enregistrements individuels des conversations → synthèses |
 
-Conversations feed into the agent's context window during turns, giving them awareness of recent social interactions.
+Les conversations alimentent la fenêtre de contexte de l’agent pendant ses tours, ce qui lui permet de prendre en compte les interactions sociales récentes.
 
 ---
 
-## Relationship Graph
+## Graphe des relations
 
-Every agent maintains a relationship model for every other agent they've interacted with:
+Chaque agent entretient un modèle relationnel pour tous les autres agents avec lesquels il a interagi :
 
-| Field | Description |
+| Champ | Description |
 |-------|-------------|
 | `relationship_type` | ally, rival, mentor, romantic_partner, neutral, etc. |
-| `rationale` | Agent's stated reason for the relationship classification |
-| `interaction_count` | Total interactions |
-| `first_met_at` | Timestamp of first encounter |
-| `relationship_notes` | Freeform notes about the relationship |
+| `rationale` | Motif déclaré par l’agent pour cette classification de la relation |
+| `interaction_count` | Nombre total d’interactions |
+| `first_met_at` | Timestamp de la première rencontre |
+| `relationship_notes` | Notes libres au sujet de la relation |
 

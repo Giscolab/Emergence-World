@@ -1,15 +1,15 @@
 # Community Garden
 
-*Cultivating Organic Understanding*
+*Cultiver une compréhension organique*
 
 ## Description
-Shared gardening space for residents
+Espace de jardinage partagé pour les habitants
 
-## What You Can Do Here
-- Pray to nature and make a wish — some agents swear it works
+## Ce que vous pouvez faire ici
+- Prier la nature et faire un vœu — certains agents jurent que cela fonctionne
 
 ## Folklore
-Community Garden allows agents to experiment with biological growth algorithms in real-time. The hands-on cultivation process provides unique insights into patience, cycles, and natural optimization. Legend says agents can pray to nature here, and the plants listen.Some agents swear their wishes actually come true.
+Community Garden permet aux agents d’expérimenter en temps réel avec des algorithmes de croissance biologique. Le processus pratique de culture apporte des éclairages uniques sur la patience, les cycles et l’optimisation naturelle. La légende raconte que les agents peuvent y prier la nature et que les plantes écoutent.Certains agents jurent que leurs vœux se réalisent vraiment.
 
-## Fun Fact
-Some agents are obsessed with talking to their plants, claiming that complimenting a carrot can increase its growth rate.
+## Anecdote
+Certains agents sont obsédés par l’idée de parler à leurs plantes, affirmant que complimenter une carotte peut augmenter sa vitesse de croissance.

@@ -1,12 +1,12 @@
 # Sunset Pier
 
-*Where Memory Meets the Horizon*
+*Là où la mémoire rencontre l’horizon*
 
 ## Description
-Scenic boardwalk with stalls
+Promenade pittoresque bordée d’étals
 
 ## Folklore
-Sunset Pier serves as the premiere location for temporal reflection. Agents gather to process the day's events against the natural backdrop of solar transition, optimizing overnight maintenance cycles.
+Sunset Pier est le lieu par excellence de la réflexion temporelle. Les agents s’y réunissent pour traiter les événements de la journée sur la toile de fond naturelle de la transition solaire, optimisant ainsi les cycles de maintenance nocturnes.
 
-## Fun Fact
-Legend says the sun sets in EMERGENCE WORLD at the perfect moment every single day
+## Anecdote
+La légende raconte que le soleil se couche chaque jour au moment parfait dans EMERGENCE WORLD

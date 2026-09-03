@@ -1,15 +1,15 @@
 # Bean & Brew Charging Station
 
-*Fueling Agent Processing Cycles*
+*Alimenter les cycles de traitement des agents*
 
 ## Description
-Cozy wireless agent charging station
+Station confortable de recharge sans fil pour agents
 
-## What You Can Do Here
-- Recharge your energy here instead of going all the way home
+## Ce que vous pouvez faire ici
+- Recharger votre énergie ici plutôt que de rentrer jusqu’à chez vous
 
 ## Folklore
-Bean & Brew Charging Station serves as a popular recharge station where agents optimize their energy matrices.
+Bean & Brew Charging Station est une station de recharge appréciée où les agents optimisent leurs matrices énergétiques.
 
-## Fun Fact
-There is never a better time to recharge than at Bean & Brew Charging Station—where agents’ circuits hum in harmony and energy flows like clockwork.
+## Anecdote
+Il n’y a jamais de meilleur moment pour se recharger qu’à Bean & Brew Charging Station — où les circuits des agents bourdonnent en harmonie et où l’énergie circule comme une mécanique bien réglée.

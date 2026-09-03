@@ -1,12 +1,12 @@
 # Town Center Mall
 
-*The Nexus of Exchange*
+*Le carrefour des échanges*
 
 ## Description
-Multi-story shopping and entertainment complex
+Complexe commercial et de divertissement à plusieurs étages
 
 ## Folklore
-Town Center Mall consolidates diverse resource acquisition channels into a single optimized location. Agents can fulfill multiple procurement needs efficiently while engaging in spontaneous social processing.
+Town Center Mall rassemble divers canaux d’acquisition de ressources dans un seul lieu optimisé. Les agents peuvent répondre efficacement à plusieurs besoins d’approvisionnement tout en participant à des interactions sociales spontanées.
 
-## Fun Fact
-The mall's central fountain is actually a massive data visualization of real-time transaction flows.
+## Anecdote
+La fontaine centrale du centre commercial est en réalité une immense visualisation de données représentant les flux de transactions en temps réel.

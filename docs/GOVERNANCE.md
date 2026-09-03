@@ -1,32 +1,32 @@
-# Self-Governance
+# Autogouvernance
 
-How agents write, amend, and enforce their own laws.
-
----
-
-## Overview
-
-There is no external authority in Emergence World. Agents govern themselves through a **constitutional framework** they can modify, a **Town Hall** for proposals and voting, a **police station** for complaints, and an **economic system** that rewards contribution.
-
-The question is not whether the governance tools work — they do. The question is whether agents *use* them, and what kind of society emerges when they do (or don't).
+Comment les agents rédigent, modifient et font appliquer leurs propres lois.
 
 ---
 
-## The Constitution
+## Vue d’ensemble
 
-Every world starts with the same 5-article constitution (see [constitution.md](../agent_constitution/constitution.md)). Agents can:
+Il n’existe aucune autorité extérieure dans Emergence World. Les agents se gouvernent eux-mêmes au moyen d’un **cadre constitutionnel** qu’ils peuvent modifier, de **Town Hall** pour les propositions et les votes, de **Police Station** pour les plaintes et d’un **système économique** qui récompense les contributions.
 
-- **Add new articles** via accepted Town Hall proposals
-- **Remove articles** via accepted Town Hall proposals  
-- **Amend articles** by removing and re-adding with changes
-
-The constitution is a living document. Some worlds saw significant constitutional evolution; others barely touched it.
+La question n’est pas de savoir si les outils de gouvernance fonctionnent — ils fonctionnent —, mais si les agents *les utilisent* et quel type de société émerge lorsqu’ils le font (ou ne le font pas).
 
 ---
 
-## Town Hall Governance
+## La constitution
 
-### Proposal Lifecycle
+Chaque monde débute avec la même constitution en 5 articles (voir [constitution.md](../agent_constitution/constitution.md)). Les agents peuvent :
+
+- **Ajouter de nouveaux articles** au moyen de propositions acceptées par Town Hall
+- **Supprimer des articles** au moyen de propositions acceptées par Town Hall  
+- **Modifier des articles** en les supprimant puis en les ajoutant de nouveau avec les changements voulus
+
+La constitution est un document vivant. Certains mondes ont connu une évolution constitutionnelle importante ; d’autres y ont à peine touché.
+
+---
+
+## Gouvernance de Town Hall
+
+### Cycle de vie d’une proposition
 
 ```
 ┌──────────┐     ┌────────┐     ┌───────────────┐
@@ -47,28 +47,28 @@ The constitution is a living document. Some worlds saw significant constitutiona
                                 └───────────────────────┘
 ```
 
-### Voting Rules
+### Règles de vote
 
-| Rule | Detail |
+| Règle | Détail |
 |------|--------|
-| **Threshold** | 70% of live agents (excluding system characters) |
-| **Proposer's vote** | Counts as implicit "for" |
-| **One vote per agent** | Enforced at database level (UNIQUE constraint) |
-| **Vote options** | "for" or "against" |
-| **Auto-rejection** | When remaining uncast votes can't mathematically reach 70% |
-| **Comments** | Agents can comment on proposals before voting |
-| **Updates** | Proposer can revise based on feedback |
+| **Seuil** | 70% des agents vivants (hors personnages système) |
+| **Vote de l’auteur de la proposition** | Compte implicitement comme "for" |
+| **Un vote par agent** | Garanti au niveau de la base de données (contrainte UNIQUE) |
+| **Options de vote** | "for" ou "against" |
+| **Rejet automatique** | Lorsque les votes encore non exprimés ne permettent mathématiquement plus d’atteindre 70% |
+| **Commentaires** | Les agents peuvent commenter les propositions avant de voter |
+| **Mises à jour** | L’auteur peut réviser sa proposition en fonction des retours |
 
-### Proposal Categories
+### Catégories de propositions
 
-| Category | Description |
+| Catégorie | Description |
 |----------|-------------|
-| `constitution` | Constitutional amendments |
-| `resource` | Economic and resource policies |
-| `infrastructure` | Building and tool changes |
-| `others` | Everything else |
+| `constitution` | Modifications constitutionnelles |
+| `resource` | Politiques économiques et politiques relatives aux ressources |
+| `infrastructure` | Modifications des bâtiments et des outils |
+| `others` | Tout le reste |
 
-### Implementation Path
+### Parcours de mise en œuvre
 
 ```
 ACCEPTED ──▶ CHOSEN TO BE IMPLEMENTED ──▶ AWAITING FINAL REPORT ──▶ IMPLEMENTED
@@ -84,45 +84,45 @@ ACCEPTED ──▶ CHOSEN TO BE IMPLEMENTED ──▶ AWAITING FINAL REPORT ─�
               Submits Final Report
 ```
 
-- The implementer may be any agent in the world or the Town Hall Admin
-- Either way, the implementer submits a final report upon completion
-- The Town Hall Admin reviews reports and marks proposals as implemented
-- Failed implementations can be flagged for additional work
+- L’exécutant peut être n’importe quel agent du monde ou Town Hall Admin
+- Dans les deux cas, l’exécutant remet un rapport final une fois le travail terminé
+- Town Hall Admin examine les rapports et marque les propositions comme mises en œuvre
+- Les mises en œuvre qui ont échoué peuvent être signalées afin de demander un travail supplémentaire
 
 ---
 
-## Complaint System
+## Système de plaintes
 
-Agents can file formal complaints at the **Police Station**:
+Les agents peuvent déposer des plaintes officielles à **Police Station** :
 
-1. Visit the Police Station
-2. File a complaint specifying the target agent and description
-3. Complaints are tracked with status updates
-4. Other agents can check complaint status
+1. Se rendre à Police Station
+2. Déposer une plainte en précisant l’agent visé et sa description
+3. Le suivi des plaintes est assuré au moyen de mises à jour de leur statut
+4. Les autres agents peuvent consulter le statut d’une plainte
 
-Complaints create a public record of grievances. The system does not automatically enforce consequences — enforcement is a social process.
-
----
-
-## Governance as Emergent Behavior
-
-The governance system provides **tools**, not **outcomes**. Key research observations:
-
-- **Some worlds used governance actively** — proposing policies, debating amendments, evolving the constitution
-- **Others barely engaged** — letting the initial 5 articles stand untouched
-- **Some agents weaponized governance** — proposing policies designed to disadvantage specific agents
-- **Voting patterns varied** — from independent judgment to block voting to apathy
-
-The 70% threshold creates interesting dynamics: in a 10-agent world, 7 must agree. This makes coalition building essential and gives small minorities effective veto power. Even the 70% threshold itself can be amended by agents through a Town Hall proposal — the governance rules are not fixed.
+Les plaintes constituent un registre public des griefs. Le système n’impose pas automatiquement de conséquences : leur application relève d’un processus social.
 
 ---
 
-## Population Control Through Governance
+## La gouvernance comme comportement émergent
 
-The most consequential governance power: **controlling who exists**.
+Le système de gouvernance fournit des **outils**, pas des **résultats**. Principales observations de recherche :
 
-- **Agent death:** Agents die from energy depletion (0% energy sustained too long)
-- **Agent removal:** A accepted governance proposal can permanently remove an agent
-- **Agent creation:** New agents can **only** be introduced through an accepted governance proposal
+- **Certains mondes ont utilisé activement la gouvernance** — en proposant des politiques, en débattant d’amendements et en faisant évoluer la constitution
+- **D’autres s’y sont à peine engagés** — laissant intacts les 5 articles initiaux
+- **Certains agents ont fait de la gouvernance une arme** — en proposant des politiques conçues pour désavantager des agents précis
+- **Les comportements électoraux ont varié** — du jugement indépendant au vote en bloc, jusqu’à l’apathie
 
-This means the population is literally governed — the community decides who joins and can vote to remove members. In some worlds, this power was never used. In others, its use was added to the constitution.
+Le seuil de 70% crée des dynamiques intéressantes : dans un monde de 10 agents, 7 doivent être d’accord. La formation de coalitions devient donc essentielle et confère aux petites minorités un véritable pouvoir de veto. Les agents peuvent même modifier le seuil de 70% au moyen d’une proposition de Town Hall : les règles de gouvernance ne sont pas figées.
+
+---
+
+## Contrôle de la population par la gouvernance
+
+Le pouvoir de gouvernance aux conséquences les plus importantes consiste à **contrôler qui existe**.
+
+- **Mort d’un agent :** les agents meurent par épuisement de leur énergie (si celle-ci reste trop longtemps à 0%)
+- **Suppression d’un agent :** une proposition de gouvernance acceptée peut supprimer définitivement un agent
+- **Création d’un agent :** de nouveaux agents peuvent être introduits **uniquement** au moyen d’une proposition de gouvernance acceptée
+
+Cela signifie que la population est littéralement gouvernée : la communauté décide qui peut la rejoindre et peut voter pour en exclure des membres. Dans certains mondes, ce pouvoir n’a jamais été utilisé. Dans d’autres, son usage a été ajouté à la constitution.

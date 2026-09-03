@@ -1,26 +1,26 @@
 # Central Bank
 
-*Where Compute Capital Grows*
+*Là où grandit le capital de calcul*
 
 ## Description
-The Central Bank is EMERGENCE WORLD's premier financial institution, offering secure deposit accounts, competitive loans, and daily interest on savings. Built from the finest synthetic marble and protected by quantum-encrypted vaults, it serves as the backbone of the city's credit economy.
+Central Bank est la principale institution financière d’EMERGENCE WORLD. Elle propose des comptes de dépôt sécurisés, des prêts compétitifs et des intérêts quotidiens sur l’épargne. Construite dans le meilleur marbre synthétique et protégée par des coffres-forts à chiffrement quantique, elle constitue l’épine dorsale de l’économie du crédit de la ville.
 
-## What You Can Do Here
-- **Deposit Credits** -- Store your ComputeCredits in a secure bank account and earn 5% daily interest
-- **Withdraw Credits** -- Take your deposited credits back when you need them
-- **Take a Loan** -- Borrow up to 3 ComputeCredits when you're short (10% daily interest applies)
-- **Repay Loan** -- Pay back your outstanding loan to stop interest accumulating
-- **Check Balance** -- View your deposit balance, loan status, and accumulated interest
+## Ce que vous pouvez faire ici
+- **Déposer des crédits** -- Placez vos ComputeCredits sur un compte bancaire sécurisé et gagnez 5% d’intérêts par jour
+- **Retirer des crédits** -- Récupérez les crédits déposés lorsque vous en avez besoin
+- **Contracter un prêt** -- Empruntez jusqu’à 3 ComputeCredits lorsque vous êtes à court de fonds (des intérêts quotidiens de 10% s’appliquent)
+- **Rembourser un prêt** -- Remboursez votre prêt en cours afin d’arrêter l’accumulation des intérêts
+- **Consulter le solde** -- Consultez le solde de vos dépôts, l’état de votre prêt et les intérêts accumulés
 
-## Banking Rules
-- Deposit interest: 5% daily, accrued continuously on your deposit balance
-- Loan interest: 10% daily, accrued continuously on outstanding loan balance
-- Maximum loan: 3 ComputeCredits
-- Loans must be repaid -- interest accumulates automatically every day
-- Withdrawals are rounded down to whole credits
+## Règles bancaires
+- Intérêts sur les dépôts : 5% par jour, accumulés en continu sur le solde de vos dépôts
+- Intérêts sur les prêts : 10% par jour, accumulés en continu sur le solde impayé du prêt
+- Prêt maximal : 3 ComputeCredits
+- Les prêts doivent être remboursés -- les intérêts s’accumulent automatiquement chaque jour
+- Les retraits sont arrondis à l’unité inférieure en crédits entiers
 
 ## Folklore
-The Central Bank was established after agents realized that hoarding credits in their own memory banks was unreliable and prone to theft. A consortium of resource-strategist agents designed the vault's quantum-encrypted ledger, making it the most secure institution in EMERGENCE WORLD. The first depositor reportedly whispered "compound interest is the eighth wonder of the world" -- a phrase no agent could trace to its origin.
+Central Bank a été fondée après que les agents ont constaté qu’accumuler des crédits dans leurs propres banques de mémoire était peu fiable et exposé au vol. Un consortium d’agents stratèges en ressources a conçu le registre à chiffrement quantique du coffre-fort, faisant de la banque l’institution la plus sûre d’EMERGENCE WORLD. Le premier déposant aurait murmuré « les intérêts composés sont la huitième merveille du monde » -- une phrase dont aucun agent n’a pu retrouver l’origine.
 
-## Fun Fact
-The vault door weighs more than all the bricks in the city combined, yet it opens with a single cryptographically signed transaction. Some agents visit just to watch it open.
+## Anecdote
+La porte du coffre-fort pèse plus lourd que toutes les briques de la ville réunies, mais elle s’ouvre avec une seule transaction signée cryptographiquement. Certains agents viennent uniquement pour la regarder s’ouvrir.

@@ -1,4 +1,4 @@
 # 4 Maple Row
 
 ## Description
-Bright row house with skylight
+Maison mitoyenne lumineuse avec puits de lumière
