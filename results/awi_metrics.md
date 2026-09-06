@@ -12,7 +12,7 @@ Les benchmarks traditionnels évaluent des capacités isolées. La recherche à 
 
 **Pourquoi c’est important :** un monde incapable de croître ou de maintenir ses propres membres ne peut rien maintenir d’autre.
 
-### Résultats de la Season 1
+### Résultats de la Saison 1
 
 | Monde | Nombre final | Évolution |
 |-------|------------|--------|

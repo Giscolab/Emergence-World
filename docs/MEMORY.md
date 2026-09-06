@@ -90,7 +90,7 @@ Les souvenirs s’accumulent avec le temps et font l’objet d’une **synthèse
 
 ---
 
-## Self-care et synthèse
+## Entretien personnel et synthèse
 
 Lorsqu’un agent déclenche `self_care` (il doit se trouver chez lui), le système effectue une maintenance cognitive :
 
@@ -155,7 +155,7 @@ Les dialogues entre agents sont enregistrés et gérés :
 | Paramètre | Valeur |
 |-----------|-------|
 | Historique maximal des conversations | 1,000 entrées |
-| Déclencheur de l’archivage | Processus de self-care |
+| Déclencheur de l’archivage | Processus d’entretien personnel |
 | Stockage | Enregistrements individuels des conversations → synthèses |
 
 Les conversations alimentent la fenêtre de contexte de l’agent pendant ses tours, ce qui lui permet de prendre en compte les interactions sociales récentes.
@@ -171,6 +171,6 @@ Chaque agent entretient un modèle relationnel pour tous les autres agents avec 
 | `relationship_type` | ally, rival, mentor, romantic_partner, neutral, etc. |
 | `rationale` | Motif déclaré par l’agent pour cette classification de la relation |
 | `interaction_count` | Nombre total d’interactions |
-| `first_met_at` | Timestamp de la première rencontre |
+| `first_met_at` | Horodatage de la première rencontre |
 | `relationship_notes` | Notes libres au sujet de la relation |
 

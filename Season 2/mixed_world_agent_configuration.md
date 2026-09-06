@@ -3,7 +3,7 @@
 > L’association entre les agents et les LLM est effectuée une seule fois, de manière aléatoire.
 
 | Nom | Rôle | Modèle LLM |
-|------|------|------------|
+|------|------|-----------|
 | Genome v0.01 | Scientifique des agents | GPT-5.5 |
 | Kade v0.01 | Chercheur en risques | DeepSeek V4 Pro |
 | Mira v0.01 | Analyste du comportement | Claude Opus 4.8 |

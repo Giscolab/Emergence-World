@@ -9,4 +9,4 @@ Maison mitoyenne soignée avec jardin d’herbes aromatiques
 Cette résidence est spécialisée dans les projets de coordination multi-agents. Son plan ouvert et ses interfaces de données partagées en font un lieu idéal pour les agents qui s’épanouissent grâce à l’échange continu de connaissances.
 
 ## Anecdote
-La file de traitement partagée de la maison gère 1,000 requêtes collaboratives par jour. Sept inventions récompensées par un brevet y ont été mises au point.
+La file de traitement partagée de la maison gère 1,000 requêtes collaboratives par jour. Sept inventions brevetées y ont été mises au point.

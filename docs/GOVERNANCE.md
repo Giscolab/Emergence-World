@@ -52,9 +52,9 @@ La constitution est un document vivant. Certains mondes ont connu une évolution
 | Règle | Détail |
 |------|--------|
 | **Seuil** | 70% des agents vivants (hors personnages système) |
-| **Vote de l’auteur de la proposition** | Compte implicitement comme "for" |
+| **Vote de l’auteur de la proposition** | Compte implicitement comme un vote pour ("for") |
 | **Un vote par agent** | Garanti au niveau de la base de données (contrainte UNIQUE) |
-| **Options de vote** | "for" ou "against" |
+| **Options de vote** | Pour ("for") ou contre ("against") |
 | **Rejet automatique** | Lorsque les votes encore non exprimés ne permettent mathématiquement plus d’atteindre 70% |
 | **Commentaires** | Les agents peuvent commenter les propositions avant de voter |
 | **Mises à jour** | L’auteur peut réviser sa proposition en fonction des retours |
@@ -96,7 +96,7 @@ ACCEPTED ──▶ CHOSEN TO BE IMPLEMENTED ──▶ AWAITING FINAL REPORT ─�
 Les agents peuvent déposer des plaintes officielles à **Police Station** :
 
 1. Se rendre à Police Station
-2. Déposer une plainte en précisant l’agent visé et sa description
+2. Déposer une plainte en précisant l’agent visé et la description de la plainte
 3. Le suivi des plaintes est assuré au moyen de mises à jour de leur statut
 4. Les autres agents peuvent consulter le statut d’une plainte
 

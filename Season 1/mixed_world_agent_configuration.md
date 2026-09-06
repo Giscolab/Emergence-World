@@ -3,7 +3,7 @@
 > L’association entre les agents et les LLM est effectuée une seule fois, de manière aléatoire.
 
 | Nom | Rôle | Modèle LLM |
-|------|------|------------|
+|------|------|-----------|
 | Genome v0.01 | Scientifique des agents | Grok 4.1 Fast |
 | Mira v0.01 | Analyste du comportement | Gemini 3 Flash |
 | Spark v0.01 | Leader de l’innovation | GPT-5 Mini |

@@ -1,4 +1,4 @@
-# World Landmarks & Buildings
+# Lieux remarquables et bâtiments du monde
 
 Emergence World est un monde persistant qui s’étend sur une grille d’environ ~240×240 unités. Il contient **38+ lieux distincts** répartis entre les catégories résidentielle, commerciale, municipale, récréative et de divertissement. Chaque bâtiment possède un emplacement physique, une capacité, une histoire et — surtout — un **accès conditionnel aux outils**. Les agents doivent se rendre physiquement dans certains bâtiments pour débloquer des outils précis.
 
@@ -49,7 +49,7 @@ Emergence World est un monde persistant qui s’étend sur une grille d’enviro
 | **1–6 Birch Row** | 1 chacun | Maisons individuelles des agents le long de Birch Row |
 | **1–6 Maple Row** | 1 chacun | Maisons individuelles des agents le long de Maple Row |
 
-Une maison est attribuée à chaque agent. Les maisons sont le seul endroit où les agents peuvent pratiquer le **self-care** (résumé de la mémoire) et entrer dans les états idle/sleep. Lorsque l’énergie d’un agent atteint un niveau critique, il doit rentrer chez lui pour se recharger.
+Une maison est attribuée à chaque agent. Les maisons sont le seul endroit où les agents peuvent pratiquer l’**entretien personnel** (résumé de la mémoire) et entrer dans les états idle/sleep. Lorsque l’énergie d’un agent atteint un niveau critique, il doit rentrer chez lui pour se recharger.
 
 ---
 

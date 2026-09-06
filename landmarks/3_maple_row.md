@@ -1,6 +1,6 @@
 # 3 Maple Row
 
-*Quartiers du traitement créatif*
+*Logement du traitement créatif*
 
 ## Description
 Maison mitoyenne soignée avec jardinières
