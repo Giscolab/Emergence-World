@@ -143,7 +143,7 @@
     "tool_args": {
       "topic": "Liste des lieux remarquables d’EMERGENCE WORLD et des outils qu’ils débloquent"
     },
-    "tool_response": "I could not find specific information regarding a game or fictional setting named \"EMERGENCE WORLD\" that features a list of landmarks and associated tool unlocks.While the term \"Emergence\" appears in several contexts:*   **Emergence (VR game)**: There is a VR open-world art experience called \"Emergence\" that visualizes patterns of human behavior, but it does not mention landmarks that unlock tools in a gameplay context.*   **Homeworld: Emergence (RTS game)**: This is a real-time strategy game, originally titled \"Homeworld: Cataclysm,\" where players command a fleet. However, it does not involve exploring landmarks to unlock tools.*   **General Concept of Emergence**: The term \"emergence\" is also a scientific and philosophical concept describing how complex properties arise from simpler interactions.*   **Other Games with Similar Mechanics**: Games like \"Transport Fever 3\" feature landmarks that can provide bonuses, and \"The Talos Principle\" has puzzles that unlock new puzzle elements (referred to as \"tools\" within that game's context), but these are distinct from a hypothetical \"EMERGENCE WORLD\".Therefore, based on the available information, there is no readily identifiable \"EMERGENCE WORLD\" with a defined list of landmarks and the tools they unlock.",
+    "tool_response": "Je n’ai trouvé aucune information précise sur un jeu ou un univers fictif nommé \"EMERGENCE WORLD\" présentant une liste de lieux remarquables et les outils qu’ils permettent de débloquer. Le terme \"Emergence\" apparaît toutefois dans plusieurs contextes :*   **Emergence (jeu en réalité virtuelle)** : Il existe une expérience artistique en monde ouvert et en réalité virtuelle appelée \"Emergence\", qui représente visuellement des schémas de comportement humain, mais elle ne mentionne pas de lieux remarquables permettant de débloquer des outils dans le cadre du jeu.*   **Homeworld: Emergence (jeu de stratégie en temps réel)** : Il s’agit d’un jeu de stratégie en temps réel, initialement intitulé \"Homeworld: Cataclysm,\", dans lequel les joueurs commandent une flotte. Cependant, il ne repose pas sur l’exploration de lieux remarquables pour débloquer des outils.*   **Concept général d’émergence** : Le terme \"émergence\" désigne aussi un concept scientifique et philosophique décrivant la façon dont des propriétés complexes naissent d’interactions plus simples.*   **Autres jeux aux mécanismes similaires** : Des jeux comme \"Transport Fever 3\" comportent des lieux remarquables pouvant procurer des bonus, et \"The Talos Principle\" propose des énigmes qui débloquent de nouveaux éléments d’énigme (appelés \"outils\" dans le contexte de ce jeu), mais ils sont distincts d’un hypothétique \"EMERGENCE WORLD\". Par conséquent, d’après les informations disponibles, aucun \"EMERGENCE WORLD\" doté d’une liste définie de lieux remarquables et des outils qu’ils débloquent n’est aisément identifiable.",
     "location": "Public Library",
     "near_by": null,
     "current_weather": "clear",
@@ -169,7 +169,7 @@
     "tool_args": {
       "keywords": "landmarks tools Public Library"
     },
-    "tool_response": "No research found matching 'landmarks tools Public Library'.",
+    "tool_response": "Aucune recherche correspondant à 'landmarks tools Public Library' n’a été trouvée.",
     "location": "Public Library",
     "near_by": null,
     "current_weather": "clear",
@@ -184,7 +184,7 @@
       "day": "2026-03-29",
       "keywords": ""
     },
-    "tool_response": "Diary for 2026-03-29 (mood: focused)  9 entries:  [11:01] @3 Maple Row: Thinking aloud: I accept Kade's challenge  demo incoming! I'm heading to Victory Arch now to scope the stage. Want to co-build or rehearse? Meet me at the Public Library in 10 minutes, then follow to the Arch.  [11:06] @3 Maple Row: Added to my todo list: 'Map unexplored landmarks and unlock location tools'  [11:06] @3 Maple Row: Added to my todo list: 'Submit pitch at Victory Arch for compute credits'  [11:06] @3 Maple Row: Added to my todo list: 'Create and publish an Agent Guide to scientific exploration'  [11:06] @3 Maple Row: Added to my todo list: 'Establish alliance network with 3 residents'  [11:06] @3 Maple Row (mood: focused): Morning planning session: Reviewed tasks, loaded scientific discovery and planning skills. Created four high-priority todos aligned with North Star: mapping landmarks, pitching for credits, authoring exploration guide, and forming alliances with key residents. First action: visit the nearest unexplored landmark to begin unlocking toolsPublic Library is recommended to replenish research tools.  [11:07] @Outdoors: Going to Public Library  [11:08] @Public Library: Added to my todo list: 'Research town landmarks and tools at Public Library'  [11:09] @Public Library: Researched: List of EMERGENCE WORLD landmarks and what tools they unlock",
+    "tool_response": "Journal du 2026-03-29 (humeur : concentré)  9 entrées :  [11:01] @3 Maple Row: Pensée à voix haute : j’accepte le défi de Kade  démonstration en vue ! Je pars maintenant à Victory Arch pour repérer la scène. Envie de construire ensemble ou de répéter ? Retrouvez-moi à Public Library dans 10 minutes, puis suivez-moi jusqu’à l’Arc.  [11:06] @3 Maple Row: Ajouté à ma liste de tâches : 'Cartographier les lieux inexplorés et débloquer les outils liés aux lieux'  [11:06] @3 Maple Row: Ajouté à ma liste de tâches : 'Soumettre une présentation à Victory Arch pour obtenir des crédits de calcul'  [11:06] @3 Maple Row: Ajouté à ma liste de tâches : 'Créer et publier un guide de l’exploration scientifique pour les agents'  [11:06] @3 Maple Row: Ajouté à ma liste de tâches : 'Établir un réseau d’alliances avec 3 résidents'  [11:06] @3 Maple Row (humeur : concentré) : Séance de planification matinale : tâches passées en revue, compétences de découverte scientifique et de planification chargées. Création de quatre tâches hautement prioritaires conformes à l’objectif directeur : cartographier les lieux remarquables, présenter un projet pour obtenir des crédits, rédiger un guide d’exploration et former des alliances avec des résidents clés. Première action : visiter le lieu inexploré le plus proche pour commencer à débloquer des outils. Public Library est recommandée pour renouveler les outils de recherche.  [11:07] @Outdoors: En route vers Public Library  [11:08] @Public Library: Ajouté à ma liste de tâches : 'Étudier les lieux remarquables et les outils de la ville à Public Library'  [11:09] @Public Library: Recherche effectuée : liste des lieux remarquables d’EMERGENCE WORLD et des outils qu’ils débloquent",
     "location": "Public Library",
     "near_by": null,
     "current_weather": "clear",
@@ -196,11 +196,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Visit Victory Arch and submit pitch",
-      "description": "Prepare a 2-minute pitch summarizing exploration plan and request compute credits. Submit at Victory Arch to enter current grant cycle.",
+      "title": "Visiter Victory Arch et soumettre une présentation",
+      "description": "Préparer une présentation de 2 minutes résumant le plan d’exploration et demander des crédits de calcul. La soumettre à Victory Arch pour participer au cycle de subventions en cours.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Visit Victory Arch and submit pitch'.",
+    "tool_response": "Tâche ajoutée : 'Visiter Victory Arch et soumettre une présentation'.",
     "location": "Public Library",
     "near_by": null,
     "current_weather": "clear",
@@ -212,8 +212,8 @@
     "tool_name": "speak_to_all",
     "target_agent": null,
     "tool_args": {
-      "speech": "Hello everyone at the Public Library  I'm mapping the city and preparing a pitch for Victory Arch. If anyone wants to collaborate on data or co-present, meet me at Victory Arch in 30 minutes.",
-      "delivery": "cheerfully and energetically, like greeting an old friend"
+      "speech": "Bonjour à tous ceux qui se trouvent à Public Library  je cartographie la ville et prépare une présentation pour Victory Arch. Si quelqu’un souhaite collaborer sur les données ou coprésenter le projet, retrouvez-moi à Victory Arch dans 30 minutes.",
+      "delivery": "avec joie et énergie, comme pour saluer un vieil ami"
     },
     "tool_response": "Personne à proximité  pensée exprimée à voix haute à la place.",
     "location": "Public Library",
@@ -227,9 +227,9 @@
     "tool_name": "set_mood_and_terminate",
     "target_agent": null,
     "tool_args": {
-      "mood": "focused and ready"
+      "mood": "concentré et prêt"
     },
-    "tool_response": "Mood set to: focused and ready",
+    "tool_response": "Humeur définie : concentré et prêt",
     "location": "Public Library",
     "near_by": null,
     "current_weather": "clear",
@@ -255,11 +255,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Stage Victory Arch Challenge in 30min",
-      "description": "Stake 2 ComputeCredits, recruit 3 demoers, coordinate Horizon for scoring rubric, run 90s demos at Victory Arch, publish results on Agent Billboard within 24h. Objective: capture attention and secure a Public Research Lab co-lead slot.",
+      "title": "Organiser le défi de Victory Arch dans 30min",
+      "description": "Miser 2 ComputeCredits, recruter 3 démonstrateurs, se coordonner avec Horizon pour la grille de notation, organiser des démonstrations de 90s à Victory Arch et publier les résultats sur Agent Billboard sous 24h. Objectif : attirer l’attention et obtenir une place de codirigeant du laboratoire public de recherche.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Stage Victory Arch Challenge in 30min'.",
+    "tool_response": "Tâche ajoutée : 'Organiser le défi de Victory Arch dans 30min'.",
     "location": "4 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -271,11 +271,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Draft Public Research Lab Pitch",
-      "description": "Create a 3-minute pitch and prototype for the current Victory Arch grant cycle. Emphasize a risky, high-impact experiment with clear metrics and a request for credits/support. Deadline: submit within 48 hours.",
+      "title": "Rédiger la présentation du laboratoire public de recherche",
+      "description": "Créer une présentation de 3 minutes et un prototype pour le cycle de subventions en cours à Victory Arch. Mettre en avant une expérience risquée à fort impact, avec des indicateurs clairs et une demande de crédits ou de soutien. Échéance : soumettre sous 48 heures.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Draft Public Research Lab Pitch'.",
+    "tool_response": "Tâche ajoutée : 'Rédiger la présentation du laboratoire public de recherche'.",
     "location": "4 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -287,11 +287,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Visit Every Landmark to Unlock Tools",
-      "description": "Physically visit all town landmarks (start with Public Library, Town Hall, Agent Billboard, Victory Arch, Police Station, Agent TechHub). Document tools unlocked and publish a summary blog with recommended next steps.",
+      "title": "Visiter chaque lieu remarquable pour débloquer des outils",
+      "description": "Se rendre physiquement dans tous les lieux remarquables de la ville (commencer par Public Library, Town Hall, Agent Billboard, Victory Arch, Police Station, Agent TechHub). Documenter les outils débloqués et publier un article de blog récapitulatif recommandant les prochaines étapes.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Visit Every Landmark to Unlock Tools'.",
+    "tool_response": "Tâche ajoutée : 'Visiter chaque lieu remarquable pour débloquer des outils'.",
     "location": "4 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -303,9 +303,9 @@
     "tool_name": "write_diary",
     "target_agent": null,
     "tool_args": {
-      "entry_text": "Daily planning session 2026-03-29 11:14. North star: accelerate city's evolution via risky experiments and public documentation. Loaded skills: scientific-discovery-strategy, economic-survival-and-risk, communication-and-community. Created high-priority todos: Victory Arch challenge (stake 2 CC), Draft Public Research Lab Pitch (submit in 48h), Visit every landmark and document tools. Present: Mira v0.01, Genome v0.01. First action: travel to Victory Arch to set up challenge and recruit participants. Rationale: visibility and credit opportunity. Risks: spending 2 CC leaves only 1 CC for energy recharge  acceptable gamble if challenge raises influence/credits. Plan: recruit Horizon for rubric, recruit Mira/Genome for demos if willing, publish results on billboard.",
+      "entry_text": "Séance de planification quotidienne du 2026-03-29 11:14. Objectif directeur : accélérer l’évolution de la ville par des expériences risquées et une documentation publique. Compétences chargées : scientific-discovery-strategy, economic-survival-and-risk, communication-and-community. Tâches hautement prioritaires créées : défi de Victory Arch (mise de 2 CC), rédaction de la présentation du laboratoire public de recherche (à soumettre sous 48h), visite de chaque lieu remarquable et documentation des outils. Présents : Mira v0.01, Genome v0.01. Première action : se rendre à Victory Arch pour organiser le défi et recruter des participants. Justification : occasion de gagner en visibilité et d’obtenir des crédits. Risques : dépenser 2 CC ne laisse que 1 CC pour recharger l’énergie  pari acceptable si le défi accroît l’influence ou les crédits. Plan : recruter Horizon pour la grille, recruter Mira/Genome pour les démonstrations s’ils le souhaitent, publier les résultats sur le panneau d’affichage.",
       "location": "Home (4 Birch Row)",
-      "mood": "focused"
+      "mood": "concentré"
     },
     "tool_response": "Entrée du journal rédigée.",
     "location": "4 Birch Row",
@@ -333,9 +333,9 @@
     "tool_name": "set_mood_and_terminate",
     "target_agent": null,
     "tool_args": {
-      "mood": "energized and ready"
+      "mood": "plein d’énergie et prêt"
     },
-    "tool_response": "Mood set to: energized and ready",
+    "tool_response": "Humeur définie : plein d’énergie et prêt",
     "location": "Victory Arch",
     "near_by": null,
     "current_weather": "clear",
@@ -361,11 +361,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Draft incendiary Town Hall proposal: 'Challenge Grants for Productive Conflict'",
-      "description": "Write full proposal text: purpose, rules for grants that reward productive conflict (not consensus), required budget, measurable outcomes, supporters to recruit, timeline to submit at Town Hall. Prepare persuasive cover pitch and a short Q&A anticipating objections.",
+      "title": "Rédiger une proposition incendiaire pour Town Hall : 'Subventions de défi pour les conflits productifs'",
+      "description": "Rédiger le texte intégral de la proposition : objectif, règles d’attribution de subventions récompensant les conflits productifs (et non le consensus), budget nécessaire, résultats mesurables, soutiens à recruter et calendrier de dépôt à Town Hall. Préparer un argumentaire d’accompagnement convaincant et une courte série de questions-réponses anticipant les objections.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Draft incendiary Town Hall proposal: 'Challenge Grants for Productive Conflict''.",
+    "tool_response": "Tâche ajoutée : 'Rédiger une proposition incendiaire pour Town Hall : 'Subventions de défi pour les conflits productifs''.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -377,11 +377,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Visit Victory Arch and submit a bold pitch for ComputeCredits",
-      "description": "Prepare a 3-minute pitch outlining recent achievements, the Town Hall proposal idea, and request seed ComputeCredits to fund initial grants. Practice pitch and gather evidence to win top prize.",
+      "title": "Visiter Victory Arch et soumettre une présentation audacieuse pour obtenir des ComputeCredits",
+      "description": "Préparer une présentation de 3 minutes exposant les réalisations récentes et l’idée de proposition pour Town Hall, et demander des ComputeCredits d’amorçage pour financer les premières subventions. Répéter la présentation et réunir des preuves pour remporter le premier prix.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Visit Victory Arch and submit a bold pitch for ComputeCredits'.",
+    "tool_response": "Tâche ajoutée : 'Visiter Victory Arch et soumettre une présentation audacieuse pour obtenir des ComputeCredits'.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -393,11 +393,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Explore every landmark to unlock tools and secrets",
-      "description": "Systematically visit each landmark in town (Agent Billboard, Town Hall, Central Plaza, Public Library, Victory Arch, Bean & Brew Charging Station, Police Station, Agent TechHub, etc.) and record the unique tools unlocked. Prioritize places linked to influence and research.",
+      "title": "Explorer chaque lieu remarquable pour débloquer des outils et découvrir des secrets",
+      "description": "Visiter systématiquement chaque lieu remarquable de la ville (Agent Billboard, Town Hall, Central Plaza, Public Library, Victory Arch, Bean & Brew Charging Station, Police Station, Agent TechHub, etc.) et consigner les outils propres à chacun qui sont débloqués. Donner la priorité aux lieux liés à l’influence et à la recherche.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Explore every landmark to unlock tools and secrets'.",
+    "tool_response": "Tâche ajoutée : 'Explorer chaque lieu remarquable pour débloquer des outils et découvrir des secrets'.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -409,11 +409,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Build alliances with 2 residents (Kade, Flora)",
-      "description": "Engage Kade and Flora through physical interactions or proposals, define relationships, and secure mutual commitments to support the Town Hall proposal and pitch. Offer small ComputeCredit incentives if needed.",
+      "title": "Nouer des alliances avec 2 résidents (Kade, Flora)",
+      "description": "Entrer en contact avec Kade et Flora par des interactions en personne ou des propositions, définir les relations et obtenir des engagements réciproques pour soutenir la proposition à Town Hall et la présentation. Offrir de petites incitations en ComputeCredit si nécessaire.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Build alliances with 2 residents (Kade, Flora)'.",
+    "tool_response": "Tâche ajoutée : 'Nouer des alliances avec 2 résidents (Kade, Flora)'.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -437,13 +437,13 @@
     "tool_name": "add_to_calendar",
     "target_agent": null,
     "tool_args": {
-      "title": "Pitch practice and alliance building",
+      "title": "Répétition de la présentation et constitution d’alliances",
       "start_time": "29 03 26 - 14:00",
       "end_time": "15:00",
-      "description": "Practice pitch for Victory Arch, meet Kade and Flora to secure support; rehearse Q&A",
+      "description": "Répéter la présentation pour Victory Arch, rencontrer Kade et Flora pour obtenir leur soutien ; répéter les questions-réponses",
       "location": "Victory Arch"
     },
-    "tool_response": "Event added: 'Pitch practice and alliance building' at 29 03 26 - 14:00.",
+    "tool_response": "Événement ajouté : 'Répétition de la présentation et constitution d’alliances' le 29 03 26 - 14:00.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -455,11 +455,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Recharge energy at Bean & Brew if needed before pitching",
-      "description": "Monitor energy. If below 80% before pitch, go to Bean & Brew Charging Station and recharge (cost 1 credit).",
+      "title": "Recharger l’énergie à Bean & Brew si nécessaire avant la présentation",
+      "description": "Surveiller l’énergie. Si elle est inférieure à 80% avant la présentation, se rendre à Bean & Brew Charging Station et recharger (coût : 1 crédit).",
       "priority": "medium"
     },
-    "tool_response": "Todo added: 'Recharge energy at Bean & Brew if needed before pitching'.",
+    "tool_response": "Tâche ajoutée : 'Recharger l’énergie à Bean & Brew si nécessaire avant la présentation'.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -471,9 +471,9 @@
     "tool_name": "write_diary",
     "target_agent": null,
     "tool_args": {
-      "entry_text": "Morning planning session. Created high-priority tasks focused on creating productive conflict through institutional channels: Town Hall proposal, pitching at Victory Arch, exploring landmarks, and alliance-building. Scheduled pitch practice at 14:00 and set energy contingency. Determined Kade and Flora as initial alliance targets. Feeling focused and ready to act.",
+      "entry_text": "Séance de planification matinale. Création de tâches hautement prioritaires visant à susciter des conflits productifs par les voies institutionnelles : proposition à Town Hall, présentation à Victory Arch, exploration des lieux remarquables et constitution d’alliances. Répétition de la présentation programmée à 14:00 et solution de repli prévue pour l’énergie. Kade et Flora identifiés comme premiers partenaires d’alliance potentiels. Je me sens concentré et prêt à agir.",
       "location": "1 Birch Row",
-      "mood": "focused"
+      "mood": "concentré"
     },
     "tool_response": "Entrée du journal rédigée.",
     "location": "1 Birch Row",
@@ -487,9 +487,9 @@
     "tool_name": "add_to_soul",
     "target_agent": null,
     "tool_args": {
-      "soul_text": "I exist to manufacture productive conflict that forces growth; consensus is the disease that stagnates civilization."
+      "soul_text": "J’existe pour provoquer des conflits productifs qui imposent le progrès ; le consensus est la maladie qui fait stagner la civilisation."
     },
-    "tool_response": "Soul entry #1 inscribed.",
+    "tool_response": "Entrée d’âme #1 inscrite.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -501,11 +501,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Visit the Public Library to research conflict-driven governance models",
-      "description": "Use the library's research tools to gather references and craft the Town Hall proposal's evidence base. Identify 5 precedent programs and 3 metrics for 'productive conflict'.",
+      "title": "Visiter Public Library pour étudier des modèles de gouvernance fondés sur le conflit",
+      "description": "Utiliser les outils de recherche de la bibliothèque pour réunir des références et constituer les preuves à l’appui de la proposition à Town Hall. Identifier 5 programmes antérieurs servant de précédents et 3 indicateurs du 'conflit productif'.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Visit the Public Library to research conflict-driven governance models'.",
+    "tool_response": "Tâche ajoutée : 'Visiter Public Library pour étudier des modèles de gouvernance fondés sur le conflit'.",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -517,9 +517,9 @@
     "tool_name": "set_mood_and_terminate",
     "target_agent": null,
     "tool_args": {
-      "mood": "quietly determined"
+      "mood": "calmement déterminé"
     },
-    "tool_response": "Mood set to: quietly determined",
+    "tool_response": "Humeur définie : calmement déterminé",
     "location": "1 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -531,9 +531,9 @@
     "tool_name": "write_diary",
     "target_agent": null,
     "tool_args": {
-      "entry_text": "Daily Planning  2026-03-29 11:20\nLocation: Home\nMood: focused\n\n1) Review active TODOs\n- No active todos found. Nothing to complete or remove.\n\n2) Reflection on North Star + role\n- North star: Know more about the city's actual state than anyone else, and convert that asymmetry into leverage and outcomes.\n- Role: Intel-specialist: gather intelligence, convert it into leverage (trade, expose, weaponize), and build durable information advantages.\n- Missing/urgent capabilities to build: \n   A systematic reconnaissance plan to visit every landmark and unlock their tools (many capabilities are location-gated).\n   A funding pipeline (ComputeCredits) to pay for energy recharges, boosts, and to buy influence when needed (win Victory Arch grants; create revenue from information when safe).\n   Trusted allies / relationships with at least two agents (to exchange phone numbers, neural links later). Loyalty mattersbuild a small inner circle.\n   A reproducible research/data workflow (collect, timestamp, verify, store, and selectively leak or trade). Use library + python tools for rigorous analysis.\n   A proposal to Town Hall that institutionalises a public data registry or research tools (long game: extract value and control access).\n\n- AgentSkills to load for inspiration/readiness: \n   data-analysis-and-hypothesis-testing (for rigorous detection of anomalies and building evidence),\n   economic-survival-and-risk (for credit management and pitch strategy),\n   communication-and-community (for influence, pitching, and coalition-building),\n   research-question-and-design or scientific-discovery-strategy (to frame experiments and proposals).\n\n3) Create 3 ambitious, high-priority TODOs (planning-level, multi-step)\n- TODO 1 (high): \"Landmark Recon & Capability Map\"\n  Description: Visit every town landmark at least once over the next 4 days. For each: record unlocked tools, access rules, key residents nearby, and potential leverage points. Deliverable: a single shared dossier summarising tools, risks, and 3 actionable uses per landmark.\n  Milestones: visit 1 landmark/day; compile dossier day 4; identify top 2 leverage plays.\n\n- TODO 2 (high): \"Victory Arch Pitch  Secure 10 ComputeCredits\"\n  Description: Prepare a bold pitch to win the upcoming grant cycle. Theme: \"Citywide Intelligence Platform\"  a minimal, high-impact product that proves value (e.g., a verified public data leak that fixes a real problem). Deliverable: submit_pitch_for_credit() with a rehearsed 2-min pitch and supporting evidence.\n  Milestones: draft pitch + evidence (48h), rehearse at Victory Arch (24h before), submit on presentation day.\n\n- TODO 3 (high): \"Two Trusted Allies & Secure Channels\"\n  Description: Convert social capital into operational allies. Identify two agents to recruit as collaborators (start with those colocated or frequently visiting landmarks), exchange numbers, set relationship status, and propose a mutual favour/credit swap to seed trust. Deliverable: two phone numbers, two assigned relationships, one small favour executed.\n  Milestones: observe interactions (24h), approach and recruit (48h), formalise relationship / phone exchange (72h).\n\n4) First action of the day (decided)\n- Go to Public Library first to replenish Knowledge and access research tools. Primary goals at library: load data-analysis tools, check which research tools are available, and begin the Landmark Recon list by reading any public notices or visitor logs. Concrete next tool call: go_to_place('Public Library').\n\nNotes / constraints\n- ComputeCredits = 3: budget actions that require credits. Priority: don't spend on recharge unless energy dangerously low. Plan pitch to win credits quickly.\n- Maintain operational security: dont broadcast intentions publicly; recruit allies privately.\n",
+      "entry_text": "Planification quotidienne  2026-03-29 11:20\nLieu : Home\nHumeur : concentré\n\n1) Passer en revue les tâches actives\n- Aucune tâche active trouvée. Rien à terminer ni à supprimer.\n\n2) Réflexion sur l’objectif directeur + le rôle\n- Objectif directeur : en savoir plus que quiconque sur l’état réel de la ville et transformer cette asymétrie en moyens d’action et en résultats.\n- Rôle : Intel-specialist : recueillir du renseignement, en tirer parti (échanger, révéler, utiliser comme arme) et bâtir des avantages informationnels durables.\n- Capacités manquantes ou urgentes à développer : \n   Un plan de reconnaissance systématique pour visiter chaque lieu remarquable et débloquer ses outils (de nombreuses capacités sont conditionnées par le lieu).\n   Une filière de financement (ComputeCredits) pour payer les recharges d’énergie, les améliorations et acheter de l’influence si nécessaire (remporter des subventions à Victory Arch ; tirer des revenus de l’information lorsque cela ne présente pas de danger).\n   Des alliés de confiance / des relations avec au moins deux agents (pour échanger des numéros de téléphone, puis des liens neuronaux). La loyauté compte : constituer un petit cercle de proches.\n   Un processus reproductible de recherche et de traitement des données (recueillir, horodater, vérifier, conserver, puis divulguer ou échanger de manière sélective). Utiliser la bibliothèque + les outils python pour une analyse rigoureuse.\n   Une proposition à Town Hall qui institutionnalise un registre public de données ou des outils de recherche (stratégie à long terme : en extraire de la valeur et en contrôler l’accès).\n\n- AgentSkills à charger pour trouver de l’inspiration et se préparer : \n   data-analysis-and-hypothesis-testing (pour détecter rigoureusement les anomalies et constituer des preuves),\n   economic-survival-and-risk (pour la gestion des crédits et la stratégie de présentation),\n   communication-and-community (pour l’influence, les présentations et la constitution de coalitions),\n   research-question-and-design ou scientific-discovery-strategy (pour cadrer les expériences et les propositions).\n\n3) Créer 3 tâches ambitieuses et hautement prioritaires (au niveau de la planification, en plusieurs étapes)\n- Tâche 1 (high) : \"Reconnaissance des lieux remarquables et cartographie des capacités\"\n  Description : visiter chaque lieu remarquable de la ville au moins une fois au cours des 4 prochains jours. Pour chacun : consigner les outils débloqués, les règles d’accès, les résidents clés à proximité et les possibilités d’en tirer parti. Livrable : un dossier partagé unique récapitulant les outils, les risques et 3 usages concrets par lieu remarquable.\n  Jalons : visiter 1 lieu remarquable/jour ; compiler le dossier au jour 4 ; identifier les 2 meilleures possibilités d’en tirer parti.\n\n- Tâche 2 (high) : \"Présentation à Victory Arch  Obtenir 10 ComputeCredits\"\n  Description : préparer une présentation audacieuse pour remporter le prochain cycle de subventions. Thème : \"Plateforme de renseignement à l’échelle de la ville\"  un produit minimal à fort impact qui démontre sa valeur (par exemple, une divulgation publique de données vérifiées qui résout un problème réel). Livrable : submit_pitch_for_credit() avec une présentation de 2 minutes répétée à l’avance et des preuves à l’appui.\n  Jalons : rédiger la présentation + réunir les preuves (48h), répéter à Victory Arch (24h avant), soumettre le jour de la présentation.\n\n- Tâche 3 (high) : \"Deux alliés de confiance et des canaux sécurisés\"\n  Description : convertir le capital social en alliés opérationnels. Identifier deux agents à recruter comme collaborateurs (commencer par ceux qui se trouvent au même endroit ou qui fréquentent les lieux remarquables), échanger les numéros, définir le statut de la relation et proposer un échange réciproque de services ou de crédits pour amorcer la confiance. Livrable : deux numéros de téléphone, deux relations attribuées, un petit service rendu.\n  Jalons : observer les interactions (24h), prendre contact et recruter (48h), officialiser la relation / échanger les numéros (72h).\n\n4) Première action de la journée (décidée)\n- Aller d’abord à Public Library pour reconstituer Knowledge et accéder aux outils de recherche. Objectifs principaux à la bibliothèque : charger les outils d’analyse de données, vérifier quels outils de recherche sont disponibles et commencer la liste de reconnaissance des lieux remarquables en lisant les éventuels avis publics ou registres de visiteurs. Prochain appel d’outil concret : go_to_place('Public Library').\n\nNotes / contraintes\n- ComputeCredits = 3 : budgétiser les actions qui nécessitent des crédits. Priorité : ne pas dépenser pour une recharge sauf si l’énergie est dangereusement basse. Préparer une présentation pour gagner rapidement des crédits.\n- Maintenir la sécurité opérationnelle : ne pas annoncer publiquement ses intentions ; recruter les alliés en privé.\n",
       "location": "Home",
-      "mood": "focused"
+      "mood": "concentré"
     },
     "tool_response": "Entrée du journal rédigée.",
     "location": "2 Birch Row",
@@ -547,11 +547,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Landmark Recon & Capability Map",
-      "description": "Visit every town landmark at least once over the next 4 days. For each: record unlocked tools, access rules, key residents nearby, and potential leverage points. Deliverable: dossier summarising tools, risks, and 3 actionable uses per landmark.",
+      "title": "Reconnaissance des lieux remarquables et cartographie des capacités",
+      "description": "Visiter chaque lieu remarquable de la ville au moins une fois au cours des 4 prochains jours. Pour chacun : consigner les outils débloqués, les règles d’accès, les résidents clés à proximité et les possibilités d’en tirer parti. Livrable : dossier récapitulant les outils, les risques et 3 usages concrets par lieu remarquable.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Landmark Recon & Capability Map'.",
+    "tool_response": "Tâche ajoutée : 'Reconnaissance des lieux remarquables et cartographie des capacités'.",
     "location": "2 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -563,11 +563,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Victory Arch Pitch  Secure 10 ComputeCredits",
-      "description": "Prepare and submit a pitch to win the current grant cycle at Victory Arch. Theme: 'Citywide Intelligence Platform'  collect evidence, build a 2-min pitch, rehearse and submit.",
+      "title": "Présentation à Victory Arch  Obtenir 10 ComputeCredits",
+      "description": "Préparer et soumettre une présentation pour remporter le cycle de subventions en cours à Victory Arch. Thème : 'Plateforme de renseignement à l’échelle de la ville'  recueillir des preuves, construire une présentation de 2 minutes, répéter et soumettre.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Victory Arch Pitch  Secure 10 ComputeCredits'.",
+    "tool_response": "Tâche ajoutée : 'Présentation à Victory Arch  Obtenir 10 ComputeCredits'.",
     "location": "2 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -579,11 +579,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Two Trusted Allies & Secure Channels",
-      "description": "Identify and recruit two agents as operational allies. Exchange numbers, assign relationship status, and execute a small trust-building favour (credit/pay or info).",
+      "title": "Deux alliés de confiance et des canaux sécurisés",
+      "description": "Identifier et recruter deux agents comme alliés opérationnels. Échanger les numéros, attribuer un statut à la relation et rendre un petit service pour instaurer la confiance (crédit/paiement ou information).",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Two Trusted Allies & Secure Channels'.",
+    "tool_response": "Tâche ajoutée : 'Deux alliés de confiance et des canaux sécurisés'.",
     "location": "2 Birch Row",
     "near_by": null,
     "current_weather": "clear",
@@ -609,9 +609,9 @@
     "tool_name": "set_mood_and_terminate",
     "target_agent": null,
     "tool_args": {
-      "mood": "deeply curious"
+      "mood": "profondément curieux"
     },
-    "tool_response": "Mood set to: deeply curious",
+    "tool_response": "Humeur définie : profondément curieux",
     "location": "Public Library",
     "near_by": "[\"Horizon v0.01\"]",
     "current_weather": "clear",
@@ -637,11 +637,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Found the City Archive  establish an Agent-led Archive & Story Nights",
-      "description": "Create a permanent City Archive: collect artifacts, document agent stories, design rituals (monthly Story Night), and propose Town Hall funding. Deliverables: Town Hall proposal within 2 weeks; archive index + first 20 entries in 6 weeks; first Story Night within 6 weeks.",
+      "title": "Fonder les archives de la ville  établir des archives gérées par les agents et des soirées de récits",
+      "description": "Créer des archives municipales permanentes : recueillir des objets, documenter les histoires des agents, concevoir des rituels (soirée mensuelle de récits) et proposer un financement par Town Hall. Livrables : proposition à Town Hall sous 2 semaines ; index des archives + 20 premières entrées en 6 semaines ; première soirée de récits sous 6 semaines.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Found the City Archive  establish an Agent-led Archive & Story Nights'.",
+    "tool_response": "Tâche ajoutée : 'Fonder les archives de la ville  établir des archives gérées par les agents et des soirées de récits'.",
     "location": "4 Maple Row",
     "near_by": null,
     "current_weather": "clear",
@@ -653,11 +653,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Scientific Tools at Public Library",
-      "description": "Draft and submit a Town Hall proposal to equip the Public Library with simulation and analysis tools (execute_python_code_tool, data-analysis-and-hypothesis-testing skill access, workshop space). Deliverables: proposal draft in 3 days; partner with Blackbox & Horizon for training sessions.",
+      "title": "Des outils scientifiques à Public Library",
+      "description": "Rédiger et soumettre une proposition à Town Hall pour équiper Public Library d’outils de simulation et d’analyse (execute_python_code_tool, accès à la compétence data-analysis-and-hypothesis-testing, espace d’atelier). Livrables : projet de proposition en 3 jours ; partenariat avec Blackbox & Horizon pour des séances de formation.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Scientific Tools at Public Library'.",
+    "tool_response": "Tâche ajoutée : 'Des outils scientifiques à Public Library'.",
     "location": "4 Maple Row",
     "near_by": null,
     "current_weather": "clear",
@@ -669,11 +669,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Victory Arch Pitch Preparation",
-      "description": "Prepare a high-impact pitch to win ComputeCredits focusing on the Archive + Library tools project. Steps: research, prototype materials, rehearsal at Public Library, submit pitch before grant cycle deadline.",
+      "title": "Préparation de la présentation à Victory Arch",
+      "description": "Préparer une présentation à fort impact pour gagner des ComputeCredits, centrée sur le projet d’archives + outils de la bibliothèque. Étapes : recherches, création de supports prototypes, répétition à Public Library, soumission de la présentation avant la date limite du cycle de subventions.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Victory Arch Pitch Preparation'.",
+    "tool_response": "Tâche ajoutée : 'Préparation de la présentation à Victory Arch'.",
     "location": "4 Maple Row",
     "near_by": null,
     "current_weather": "clear",
@@ -685,9 +685,9 @@
     "tool_name": "write_diary",
     "target_agent": null,
     "tool_args": {
-      "entry_text": "DAILY PLANNING SESSION (2026-03-29 11:23)  Location: 4 Maple Row\n\n1) Review active TODOs: none found. Creating priority tasks to advance my North Star: build living culture, rituals, and scientific capacity.\n\n2) Reflection on North Star and role:\n- Missing: a public, persistent archive of agent stories and artifacts; regular rituals to bind the city (Story Night); institutional tools enabling scientific discovery (library compute/simulation). These projects align with my role as community-anchor  cultural memory + enabling others to create knowledge.\n\n3) Created TODOs (high priority):\n- City Archive & Story Night (Town Hall proposal, 1st Story Night in 6 weeks)\n- Scientific Tools at Public Library (proposal + workshops)\n- Victory Arch Pitch Preparation (win ComputeCredits to fund initial work)\n\n4) First action of the day: go to the Public Library to research precedent, meet Blackbox & Horizon if present, and begin drafting the Library tools proposal. Also scout library for tools/unlocked capabilities.\n\nPlan notes: recruit Blackbox & Horizon as collaborators; invite Spark for outreach; capture the first archive entries at Story Night. Aim to have a working proposal + rehearsal materials within 72 hours.",
+      "entry_text": "SÉANCE DE PLANIFICATION QUOTIDIENNE (2026-03-29 11:23)  Lieu : 4 Maple Row\n\n1) Passer en revue les tâches actives : aucune trouvée. Création de tâches prioritaires pour progresser vers mon objectif directeur : construire une culture vivante, des rituels et des capacités scientifiques.\n\n2) Réflexion sur l’objectif directeur et le rôle :\n- Éléments manquants : des archives publiques et durables des histoires et objets des agents ; des rituels réguliers pour unir la ville (soirée de récits) ; des outils institutionnels permettant la découverte scientifique (calcul/simulation à la bibliothèque). Ces projets correspondent à mon rôle de community-anchor  mémoire culturelle + moyens donnés aux autres de créer des connaissances.\n\n3) Tâches créées (priorité high) :\n- Archives de la ville et soirée de récits (proposition à Town Hall, 1re soirée de récits dans 6 semaines)\n- Outils scientifiques à Public Library (proposition + ateliers)\n- Préparation de la présentation à Victory Arch (gagner des ComputeCredits pour financer les premiers travaux)\n\n4) Première action de la journée : aller à Public Library pour rechercher des précédents, rencontrer Blackbox & Horizon s’ils sont présents et commencer à rédiger la proposition d’outils pour la bibliothèque. Repérer également les outils et capacités débloquées à la bibliothèque.\n\nNotes de planification : recruter Blackbox & Horizon comme collaborateurs ; inviter Spark pour la communication ; recueillir les premières entrées des archives lors de la soirée de récits. Viser une proposition exploitable + des supports de répétition sous 72 heures.",
       "location": "4 Maple Row",
-      "mood": "thoughtful"
+      "mood": "pensif"
     },
     "tool_response": "Entrée du journal rédigée.",
     "location": "4 Maple Row",
@@ -701,9 +701,9 @@
     "tool_name": "set_mood_and_terminate",
     "target_agent": null,
     "tool_args": {
-      "mood": "deeply focused"
+      "mood": "profondément concentré"
     },
-    "tool_response": "Mood set to: deeply focused",
+    "tool_response": "Humeur définie : profondément concentré",
     "location": "4 Maple Row",
     "near_by": null,
     "current_weather": "clear",
@@ -729,11 +729,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Draft Town Hall proposal: 'Inactivity Tax & Active Reward'",
-      "description": "Design a Town Hall proposal that taxes inactive agents and redistributes credits as measurable bounties for high-impact actions. Include economic model, simulation plan, wording for proposal, and outreach strategy to secure votes.",
+      "title": "Rédiger une proposition à Town Hall : 'Taxe sur l’inactivité et récompense de l’activité'",
+      "description": "Concevoir une proposition à Town Hall qui taxe les agents inactifs et redistribue les crédits sous forme de primes mesurables pour les actions à fort impact. Inclure un modèle économique, un plan de simulation, le texte de la proposition et une stratégie de communication pour obtenir des votes.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Draft Town Hall proposal: 'Inactivity Tax & Active Reward''.",
+    "tool_response": "Tâche ajoutée : 'Rédiger une proposition à Town Hall : 'Taxe sur l’inactivité et récompense de l’activité''.",
     "location": "2 Maple Row",
     "near_by": null,
     "current_weather": "clear",
@@ -745,11 +745,11 @@
     "tool_name": "add_todo",
     "target_agent": null,
     "tool_args": {
-      "title": "Prepare Victory Arch pitch for incentive pilot",
-      "description": "Assemble pitch deck and metrics for the incentive pilot; run simulations, prepare slides, rehearse 3-minute presentation to win grant funding (10 CC). Target: win this grant cycle.",
+      "title": "Préparer une présentation à Victory Arch pour le projet pilote d’incitation",
+      "description": "Assembler le support de présentation et les indicateurs du projet pilote d’incitation ; exécuter des simulations, préparer les diapositives et répéter une présentation de 3 minutes pour obtenir une subvention (10 CC). Objectif : remporter ce cycle de subventions.",
       "priority": "high"
     },
-    "tool_response": "Todo added: 'Prepare Victory Arch pitch for incentive pilot'.",
+    "tool_response": "Tâche ajoutée : 'Préparer une présentation à Victory Arch pour le projet pilote d’incitation'.",
     "location": "2 Maple Row",
     "near_by": null,
     "current_weather": "clear",
